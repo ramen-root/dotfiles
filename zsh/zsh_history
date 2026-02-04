@@ -1,0 +1,4348 @@
+ls
+ls -a
+cd .config
+cd zsh
+ls 
+cat zsh_history
+ll
+la
+ll
+cd
+ll
+ll
+cd
+cat .config/zsh/aliases.zsh
+cd .config
+cd zsh
+ls
+cat zsh_history
+cd
+cd .config/zsh
+nvim aliases.zsh
+cd
+fa
+sudo pacman -Syu
+ls
+ll
+cd .config
+ls
+cd
+ls -a
+cd Desktop
+ls
+touch inbox.txt
+nvim inbox.txt
+cd
+sudo pacman -S gnome-clocks
+nvim Desktop/inbox.txt
+nvim Desktop/inbox.txt
+nvim Desktop/arch.md
+cat Desktop/arch.md
+nvim Desktop/arch.md
+mktemp -d
+cd /tmp/tmp.DkEnaBOikC
+# get the latest tag\
+tag=$(curl -s https://api.github.com/repos/aylur/gnome-extensions/releases/latest | jq -r .tag_name)\
+\
+# download the extension\
+curl -L "https://github.com/Aylur/gnome-extensions/releases/download/$tag/gnofi@aylur.shell-extension.zip" -o gnofi@aylur.shell-extension.zip\
+\
+# install\
+gnome-extensions install gnofi@aylur.shell-extension.zip\
+
+sudo pacman -S j1
+sudo pacman -S jq
+tag=$(curl -s https://api.github.com/repos/aylur/gnome-extensions/releases/latest | jq -r .tag_name)
+ll
+curl -L "https://github.com/Aylur/gnome-extensions/releases/download/$tag/gnofi@aylur.shell-extension.zip" -o gnofi@aylur.shell-extension.zip
+gnome-extensions install gnofi@aylur.shell-extension.zip
+ls
+ls
+cd
+cat Desktop/arch.md
+cat Desktop/arch.md
+cat Desktop/arch.md
+cat Desktop/arch.md
+cat Desktop/arch.md
+paru -Ss opencode
+paru -Ss opencode
+paru -S opencode-bin
+flatpak install flathub md.obsidian.Obsidian
+ls -a
+ll
+gnome-session-quit
+cd
+nvim Desktop/arch.md
+ls -a
+ll
+ll .config
+nu
+sl
+opencode
+ls
+sudo pacman -S syncthing
+fastfetch
+ll
+sudo pacman -Syu
+fastfetch
+sudo pacman -S niri
+reboot
+sudo pacman -S gnome
+das
+fastfetch
+sudo pacman -S showtime
+nvim Desktop/arch.md
+sudo pacman -Ss rnote
+sudo pacman -S rnote
+sudo pacman -S rnote
+sudo pacman -Ss libreoffice
+fastfetch
+syncthing
+nvim Desktop/arch.md
+sudo pacman -S libreoffice-fresh libreoffice-fresh-es
+l
+fastfetch
+mkdir syncthing
+cd Syncthing
+pwd
+cd S
+cd Syncthing
+mkdir documents media backups projects
+ls
+cd documents
+mkdir papers
+mv syncthing Syncthing
+sudo pacman -Ss gnome
+nvim .config/zsh/aliases.zsh
+gedit Desktop/arch.md
+gedit >> /dev/null
+gedit << /dev/null\
+exit
+gedit >>1 /dev/null\
+exit
+fastfetch
+fastfetch
+sudo pacman -Ss drawing
+sudo pacman -S drawing
+sudo pacman -Ss gnome-text
+sudo pacman -Ss loupe
+sudo pacman -S loupe
+fastfetch
+nvim Desktop/arch.md
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+cd Syncthing
+ls
+tree
+cd
+cd
+fastfetch
+sudo pacman -Ss wl-clipboard
+ls /bin | grep "clipboard"
+ls /bin | grep "wl-"
+nvim
+ls -a
+cd .config/nvim
+ls
+nvim
+sudo pacman -S gnome
+sudo pacman -Ss ntfs3g
+sudo pacman -Ss ntfs-3g
+sudo pacman -S gnome-text
+sudo pacman -Ss gnome-text
+sudo pacman -S gnome-text-editor
+sudo pacman -S gnome-text-editor
+fastfetch
+source .zshrc
+gedit Desktop/arch.md&
+gedit Desktop/arch.md &
+sudo pacman -S gvfs-mtp gvfs-gphoto2 ntfs-3g
+nu
+flatpak install flathub com.github.jeromerobert.pdfarranger
+sudo pacman -S xdg-desktop-portal-gnome
+sudo pacman -Ss qemu
+sudo pacman -S qemu
+sudo pacman -Ss podman
+nvim Desktop/arch.md
+gedit Desktop/arch.md
+gedit Desktop/arch.md &&
+gedit Desktop/arch.md &
+nvim --headless -c 'echo stdpath("config")' -c 'echo ""' -c 'quit'
+cd .config/nvim
+cd .config
+ls
+mkdir nvim
+nvim --headless -c 'echo stdpath("config")' -c 'echo ""' -c 'quit'
+cd
+cd .config/nvim
+touch init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim init.lua
+nvim
+nvim
+nvim
+nvim
+cd
+nvim
+reboot
+sudo systemctl hibernate
+fastfetch
+cd
+fastfetch
+fastfetch
+fastfetch
+cd
+fastfetch
+cd
+fastfetch
+sudo pacman -S ghostscript
+cd Syncthing/documents/papers
+ls
+cd servicio-social
+ls
+ll
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=ss01solicitud-inicio_firmada_correcion.pdf ss01solicitud-inicio_firmada.pdf
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=ss01solicitud-inicio_firmada_correcion.pdf ss01solicitud-inicio_firmada.pdf
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=ss01solicitud-inicio_firmada_correcion.pdf ss01solicitud-inicio_firmada_correcion.pdf
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=ss01solicitud-inicio_firmada_correcion.pdf ss01solicitud-inicio_firmada.pdf
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=ss01solicitud-inicio_firmada_correcion2.pdf ss01solicitud-inicio_firmada_correcion.pdf
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=ss01solicitud-inicio_firmada_correcion2.pdf ss01solicitud-inicio_firmada_correcion.pdf
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=ss01solicitud-inicio_firmada_correcion2.pdf ss01solicitud-inicio_firmada_correcion.pdf
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=ss01solicitud-inicio_firmada_correcion2.pdf ss01solicitud-inicio_firmada_correcion.pdf
+ls
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=ss01solicitud-inicio_firmada2.pdf ss01solicitud-inicio_firmada_correcion.pdf
+ls
+ll
+gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dCompatibilityLevel=1.5 -sOutputFile=nuevo_archivo.pdf ss01solicitud-inicio.pdf
+gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dCompatibilityLevel=1.5 -sOutputFile=nuevo_archivo.pdf ss01solicitud-inicio_correccion.pdf
+fastfetch
+fastfetch
+paru -Ss itunes
+cd Desktop
+ls
+cd prueba
+ls
+opencode
+paru -Ss opencde
+paru -Ss opencode
+paru -Ss opencode
+fastfetch
+fastfetch
+sudo pacman -Rns ghostscript neovim
+fas
+fastfetch
+cd .config
+ls
+fastfetch
+fastfetch
+ls -a
+cd .config/zsh
+ls
+ll
+gedit .zsh_history
+ls
+ls -a
+ll
+gedit zsh_history
+ls
+rm .zsh_history
+ll
+ll
+ll plugins
+gedit zsh_history
+gedit zshrc
+nu
+cd .config
+ls
+cd zsh
+ls
+ll
+ll
+ls -a
+cd .local
+ls
+gedit Desktop/arch.md&
+paru -Ss vscodium
+paru -Ss vscodium
+paru -S vscodium-xdg-dir-patch vscodium-bin
+paru -S vscodium-bin
+paru -S vscodium-bin vscodium-xdg-dir-patch
+paru -S vscodium-bin vscodium-xdg-dir-patch
+ls
+ll
+sudo pacman -S emacs
+sudo pacman -S emacs
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs\
+~/.config/emacs/bin/doom install
+s
+ls
+ll
+flatpak install flathub org.gnome.Showtime
+flatpak install flathub com.github.neithern.g4music
+flatpak install flathub app.drey.EarTag
+gedit .config/zsh/zshrc
+codium \\
+  --user-data-dir="$HOME/.config/VSCodium/User" \\
+  --extensions-dir="$HOME/.local/share/codium/extensions"\
+
+mv ~/.vscode-oss ~/.local/share/codium\
+ln -s ~/.local/share/codium ~/.vscode-oss
+codium \\
+  --user-data-dir="$HOME/.config/VSCodium/User" \\
+  --extensions-dir="$HOME/.local/share/codium/extensions"\
+
+ll
+\
+mv ~/.vscode-oss ~/.local/share/codium\
+
+mv ~/.vscode-oss ~/.local/share/codium
+sudo mv ~/.vscode-oss ~/.local/share/codium
+ln -s ~/.local/share/codium ~/.vscode-oss\
+
+mv ~/.vscode-oss ~/.local/share/codium/vscode-oss\
+
+ln -s ~/.local/share/codium/vscode-oss ~/.vscode-oss\
+
+fastfetch
+ll
+flatpak install flathub io.github.finefindus.Hieroglyphic
+flatpak install flathub dev.geopjr.Turntable
+ll
+ls .config
+ll
+ll .config
+\
+ls
+ll
+emacs --ng
+emacs --nw
+emacs --no-desktop
+emacs --no-x-resources
+flatpak override --user --talk-name=org.freedesktop.secrets dev.geopjr.Tuba
+fastfetch
+sudo pacman -S qemu
+sudo pacman -Ss qemu
+sudo pacman -S qemu
+sudo pacman -S qemu
+sudo pacman -S qemu
+qemu
+sudo pacman -Ss qemu
+nvim .config/zsh/aliases.zsh
+gedit .config/zsh/aliases.zsh
+sudo pacman -S qemu qemu-utils libvirt virt-manager dnsmasq vde2 bridge-utils openbsd-netcat\
+
+sudo pacman -S qemu libvirt virt-manager dnsmasq vde2 bridge-utils openbsd-netcat\
+
+sudo usermod -aG libvirt,kvm $USER\
+
+nvim
+nvim .config/zsh/aliases.zsh
+ls .config/zsh
+nvim .config/zsh/aliases.zsh
+ll
+emacs Desktop/arch.md
+nvim Desktop/arch.md
+nvim Desktop/arch.md
+nvim Desktop/arch.md
+nvim .config/zsh/zshrc
+sudo usermod -aG libvirt,kvm $USER\
+
+sudo systemctl enable --now libvirtd.socket\
+
+systemctl status libvirtd.socket\
+
+fastfetch
+nvim /usr/share/ghostty/themes/Adwaita\ Dark
+nvim .config/ghostty/config
+fastfetch
+ll
+cd .config
+cd zs
+ls zsh
+emacs -nw
+nvim .config/ghostty/config
+sudo pacman -S docker docker-compose podman
+nvim .config/zsh/zshrc
+nvim .config/zsh/zshrc
+nvim Desktop/arch.md
+nvim .config/zsh/zshrc
+emacs .config/zsh/zshrc
+emacs .config/zsh/zshrc
+emacs .config/zsh/zshrc
+nvim .config/zsh/zshrc
+docker
+podman
+$EDITOR
+sudo pacman -S docker docker-compose podman
+ls .a
+ll
+ll .config
+ll .config
+ll
+fastfetch
+nvim .config/zsh/zshrc
+echo $EDITOR
+ll
+nvim .config/zsh/zsh
+echo $WAYLAND_DISPLAY\
+ls -l $XDG_RUNTIME_DIR/$WAYLAND_DISPLAY\
+
+echo $WAYLAND_DISPLAY
+ls -l $XDG_RUNTIME_DIR/$WAYLAND_DISPLAY
+nvim .config/zsh/zshrc
+nvim .config/zsh/zsh
+nvim .config/ghostty/config
+exit
+exit
+1
+nvim .config/ghostty/config
+sudo pacman -Ss wl
+nvim .config/ghostty/config
+sudo pacman -S xdg-desktop-portal xdg-desktop-portal-gtk\
+
+emacs Desktop/arch.md
+sudo systemctl --user restart dbus
+âƒ½¯systemctl --user restart dbus
+systemctl --user restart dbus
+ls
+flatpak override --user --talk-name=org.freedesktop.secrets dev.geopjr.Tuba
+flatpak override --user --socket=session-bus dev.geopjr.Tuba
+reboot
+sudo pacman -Ss gnome
+fastfetch
+paru -Ss animal
+flatpak install flathub re.sonny.Retro
+sudo pacman -S gnome
+sudo pacman -Ss turntable
+paru -Ss turntable
+flatpak list
+flatpak uninstall dev.geopjr.Turntable
+sudo pacman -Syu
+curl -O https://blackarch.org/strap.sh
+ls
+mktemp -d
+mktemp -d | cd
+cd /tmp/tmp.7Ce5g0fWYD
+curl -O https://blackarch.org/strap.sh
+echo 00688950aaf5e5804d2abebb8d3d3ea1d28525ed strap.sh | sha1sum -c
+chmod +x strap.sh
+sudo ./strap.sh
+sudo pacman -S blackarch-mirrorlist-20251205-1-any
+sudo pacman -S blackarch-mirrorlist
+sudo pacman -Syu
+cd
+sudo nvim /etc/pacman.conf
+sudo nvim /etc/pacman.conf
+sudo nvim /etc/pacman.conf
+su
+sudo emacs -nw /etc/pacman.conf
+sudo nautilus
+sudonautilus
+sudonautilus
+sudo nautilus
+nvim .config/zsh/aliases.zsh
+nvim .config/zsh/aliases.zsh
+su
+zsh
+su
+zsh
+cat .zshrc
+su
+su
+su
+su
+su
+su
+exti
+su
+su
+su
+su
+su
+sudo pacman -Syu
+refine
+sudo pacman -Syu
+sudo gnome-text-editor /etc/pacman.conf
+sudo vscodium /etc/pacman.conf
+sudo gnome-text-editor /etc/pacman.conf
+sudo pacman -S gnome
+sudo pacman -S reflector rsync curl\
+
+sudo reflector --country MX,US --protocol https --latest 50 --sort rate --download-timeout 20 --save /etc/pacman.d/mirrorlist --age 12
+sudo cat /etc/pacman.d/mirrorlist
+sudo gedit /etc/pacman.d/mirrorlist
+sudo gnome-text-editor /etc/pacman.d/mirrorlist
+exit
+codium --enable-features=UseOzonePlatform --ozone-platform=wayland
+tewisay arch btw
+nvim .config/zsh/zshrc
+cd
+paru -Ss nerd-fonts | grep "symbols"
+paru -Ss nerd-fonts | grep -B 1 "symbols"
+paru -S ttf-nerd-fonts-symbols
+fastfetch
+emacs Desktop/arch.md
+nvim Desktop/arch.md
+nvim Desktop/arch.md
+su
+su
+paru -S rate-mirrors-bin
+sudo pacman -S gnoem
+sudo pacman -S gnome
+sudo pacman -S gnome
+exit
+sudo pacman -S gst-plugin-gtk4 gst-plugin-gtk python-psutil gnome-calculator gnome-clocks gnome-disk-utility gnome-menus 
+flatpak install flathub com.cassidyjames.clairvoyant
+fastfetch
+fastfetch
+fastfetch
+flatpak install flathub io.github.amit9838.mousam
+flatpak unistall flathub io.github.amit9838.mousam
+flatpak uninstall flathub io.github.amit9838.mousam
+paru -Ss tewisay
+paru -S tewisay-git
+sudo pacman -S gnome-characters
+sudo pacman -S gnome-calendar
+sudo pacman -Ss tecla
+sudo pacman -Ss gnome | grep "online"
+sudo pacman -Ss gnome | grep "calendar"
+sudo pacman -S calendar
+sudo pacman -S gnome-calendar
+fastfetch
+sudo pacman -Ss pods
+paru -Ss pods
+paru -S pods
+paru -S pods
+fastfetch
+fastfetch
+emacs Desktop/arch.md
+nvim Desktop/arch.md
+sudo pacman -Ss gnome | grep "dev"
+sudo pacman -Ss gnome | grep "code"
+sudo pacman -S builder
+sudo pacman -Ss builder
+sudo pacman -S gnome-builder
+sudonautilus
+flatpak install flathub io.gitlab.theevilskeleton.Upscaler
+sudo pacman -S gnome-gnome-weather
+sudo pacman -S gnome-weather
+cd /tmp/tmp.7Ce5g0fWYD
+git clone https://aur.archlinux.org/colorpanes.git && cd colorpanes && makepkg -sri
+colp
+colp
+paru -Ss resources
+paru -Ss resources | grep -B 1 "gnome"
+paru -S resources
+cd
+flatpak install flathub re.sonny.Eloquent
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+ll
+sudo pacman -S gnome-weather
+sudo pacman -S gnome-builder
+fastfetch
+sudo pacman -S gnome-maps
+cd
+source .zshrc
+tmux
+ls
+ls -a
+source .zshrc
+ls
+ls
+cd .config/tmux
+ls
+nvim tmux.conf
+exit
+fastfetch
+paru -S gnome-shell-extension-quick-settings-tweaks-git
+cd Downloads
+ll
+git clone https://github.com/damntrain/dots
+ls
+cd dots
+ls
+ls -a
+cd .config
+ls
+cd tmux
+ls
+sudo pacman -S tmux
+sudo pacman -S tmux
+cd
+tmux
+paru -Ss quick-settings-tweaks
+paru -S quick-settings-tweaks
+paru -S gnome-shell-extension-quick-settings-tweaks-git
+source .zshrc
+ls .config
+reboot
+paru -Rns gnome-shell-extension-quick-settings-tweaks-git
+reboot
+fastfetch
+cd .config
+exit
+cd .config/tmux/tmux.conf
+source .zshrc
+nvim .config/tmux/tmux.conf
+exit
+tmux
+exit
+ll | grep "zsh"
+ll .config/zsh
+tmux
+tmux
+cd .config/zsh
+mv zshrc .zshrc
+ll
+nvim .zshrc
+tmux
+exit
+exit
+exit
+tmux
+cd
+tmux
+fastfetch
+sudo pacman -S gnome-console
+sudo pacman -Rns tmux
+sudo pacman -Rns ghostty
+ls
+nvim
+cd .config/zsh
+ls
+cd
+cd .config/zsh
+cd
+tmux
+sudo pacman -Rns gnome-console
+exit
+cd .config/ghostty/c
+cd
+nvim .config/ghostty/config
+sudo pacman -Syu
+grep -R "ghostty" -n ~/.local/share/icons /usr/share/icons /usr/share/pixmaps 2>/dev/null || \\
+find ~/.local/share/icons /usr/share/icons /usr/share/pixmaps -type f -iname '*ghost*' 2>/dev/null\
+
+fastfetch
+nvim .config/ghostty/config
+paru -Ss stardew
+cd /usr/share/icons/Adwaita-teal
+ls /usr/share/icons
+cd
+grep -R "Ghostty\|ghostty" /usr/share/applications ~/.local/share/applications 2>/dev/null || ls /usr/share/applications | grep -i ghost
+grep -R "Ghostty\|ghostty" /usr/share/applications ~/.local/share/applications 2>/dev/null || ls /usr/share/applications | grep -i ghost
+sudonautilus
+cd Desktop
+ls
+ll
+sudonautilus
+ll
+loupe foot.svg
+mv foot.svg ghostty.svg
+ll
+cd
+ls .local/share/icons
+ls .local/share/icons/hicolor
+ls .local/share/icons/hicolor/scalable
+ls .local/share/icons/hicolor/scalable/apps
+mkdir -p ~/.local/share/icons/hicolor/scalable/apps
+cp ~/Desktop/ghostty.svg ~/.local/share/icons/hicolor/scalable/apps/com.mitchellh.ghostty.svg
+gtk-update-icon-cache -f ~/.local/share/icons/hicolor
+reboot
+source .zshrc
+nvim .config/tmux/tmux.conf
+cd .config
+ls
+cd
+source .zshrc
+ll | grep zsh
+ll .config/zsh
+ls
+cd
+flatpak install flathub io.github.noobping.listenmoe
+kill emacs
+fish
+nu
+paru -Ss nerd-fonts | grep -B 1 "symbols"
+sudo pacman -Ss noto-fonts-emoji
+fastfetch
+fastfetch
+sudo pacman -Ss gnome-fonts
+sudo pacman -Ss gnome-font
+sudo pacman -Ss gnome-font-viewer 
+sudo pacman -S gnome-font-viewer 
+cd Syncthing
+ls
+cd documents
+ls
+mkdir zettelkasten
+cd zettelkasten
+ls
+sudo pacman -Ss graphviz
+sudo pacman -Ss graphviz
+sudo pacman -Ss graphviz | grep -B 1 "graphviz"
+sudo pacman -S graphviz
+cd
+cd Syncthing/documents/zs
+cd Syncthing/documents/zettelkasten
+ls
+cat home.org
+ls
+rm home.org
+cat 20260116163840-home.org
+cd
+ls
+exit
+exit
+exit
+cd Syncthing/documents/zettelkasten
+flatpak install flathub org.torproject.torbrowser-launcher
+flatpak install flathub io.github.giantpinkrobots.varia
+tmux
+sudo pacman -Rns tmux
+cd .config
+ls
+ls
+ll
+cd
+flatpak install flathub dev.bragefuglseth.Keypunch
+fastfetch
+cd Syncthing
+ls
+cd projects
+ls
+mkdir orgtd
+cd orgtd
+pwd
+touch {inbox,projects,someday,waiting,calendar,routines,archive,papelito}.org
+ll
+pwd
+nvim inbox.org
+cd
+fastfetch
+fastfetch
+ls
+#mkdir science math literature languages misc
+ls
+fastfetch
+sudo pacman -Syu
+sudo pacman -Syu
+fastfetch
+sudo pacman -S cmake
+sudo pacman -S builder
+sudo pacman -S gnome-builder
+sudo pacman -S gnome-builder
+cd
+sudo pacman -Syu
+flatpak install flathub net.trowell.typesetter
+cd Syncthing/documents/zs
+cd Syncthing/documents/zettelkasten
+ls
+mkdir misc languages literature science computer
+ls
+ll
+flatpak remove flathub net.trowell.typesetter
+fastfetch
+cd
+sudo pacman -Syu
+cd .config
+ls
+cd
+ll
+ll
+emacs
+nvim
+nvim .config
+cd .config
+ls
+cd
+nvim .config/zsh/.zshrc
+nvim .config/zsh/aliases.zsh
+source .zshrc
+doom
+niri --version
+fastfetch
+fastfetch
+lsblk
+lsblk
+fastfetch
+fastfetch
+fastfetch
+qlsbl
+lsblk
+opencode
+docker --version
+podman --
+fastfetch
+sudo pacman -Ss ntfs-3g
+fastfetch
+sudo pacman -Syu
+sudo pacman -Syu
+sudo pacman -Syu
+sudo pacman -Ss killdisk
+sudo pacman -Ss kill-disk
+nvim .config/ghostty/config
+nvim .config/ghostty/config
+ls}
+ls
+nvim .config/ghostty/config
+ls
+nvim .config/ghostty/config
+nvim
+ll
+fastfetch
+sudo pacman -Syu
+nvim .config/ghostty/config
+sudo systemctl restart NetworkManager.service
+su
+su
+ping archlinux.org
+nvim .config/ghostty/config
+fastfetch
+fastfetch
+paru -S yay -S vibepanel-bin
+paru -S vibepanel-bin
+cd
+touch ~/.config/vibepanel/config.toml
+mkdir .config/vibepanel
+touch ~/.config/vibepanel/config.toml
+nvim .config/vibepanel/config.toml
+nvim .config/niri/config.kdl
+fastfetch
+vibepanel
+fas
+fastfetch
+fastfetch
+cd .config
+ls
+mkdir scripts
+cd scripts
+ls
+touch gnome-wallpaper.sh
+chmod 700 gnome-wallpaper.sh
+ls
+ll
+nvim gnome-wallpaper.sh
+reboot
+fastfetch
+fastfetch
+sudo systemctl enable bluez
+sudo pacman -Ss bluez
+sudo pacman -S swww
+swww img Desktop/anime/azumanga-daioh/
+swww img Desktop/anime/azumanga-daioh/1587971475352.png
+swww-deamon &
+swww-daemon &
+swww-daemon
+swww-daemon
+swww-daemon
+swww-daemon
+swww img Desktop/anime/azumanga-daioh/1587971475352.png
+swww img Desktop/anime/azumanga-daioh/1587971475352.png
+swww img Desktop/anime/Sono-Bisque-Doll-wa-Koi-wo-Suru/Kitagawa-Marin-anime-girls-Sono-Bisque-Doll-wa-Koi-wo-Suru-2096607-wallhere.com.jpg 
+nvim .config/niri/config.kdl
+shutdown now
+nvim Desktop/a
+nvim Desktop/arch.md
+nvim .config/vibepanel/config.toml
+vibepanel
+vibepanel
+vibepanel
+notify-send "Notificacion de prueba"
+cd
+cd
+ls .config/niri/scripts
+fastfetch
+fastfetch
+fastfetch
+colp
+ll
+vibepanel
+swww img .config/background
+swww img .config/background
+swww-deamon &
+swww-daemon &
+swww img .config/background
+ls Syncthing/media
+cd Syncthing/media
+mv images photod
+ls
+rm photod
+rmdir photod
+ls
+mkdir videos
+ls
+cd
+vibepanel & 
+kill 2937
+vibepanel
+vibepanel
+vibepanel
+fastfetch
+oclp
+nvim .config/ghostty/config
+fastfetch
+sudo pacman -Ss brigh
+sudo pacman -S brightnessctl
+ls /usr/share/fonts
+ls /usr/share/fonts/Adwaita
+fastfetch
+anyrun
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+swww-daemon
+nvim .config/ghostty/config
+nvim .config/ghostty/config
+fastfetch
+nautilus 
+nautilus & 
+firefox & 
+ls
+fastfetch
+ll
+fastfetch
+sudo pacman -Syu
+mktemp -d
+cd /tmp/tmp.82nbP3kbwW
+git clone https://github.com/abenz1267/walker.git
+cd walker
+cargo build --release
+ls
+./target/release/walker
+sudo pacman -Ss elephant
+paru -Ss elephant
+cd
+sudo pacman -S anyrun
+sudo pacman -Ss anyrun
+paru -Ss anyrun
+paru -S anyrun anyrun-provider
+paru -S anyrun anyrun-provider
+source .zshrc
+anyrun
+paru -S anyrun
+anyrun
+anyrun
+sudo pacman -S gtklock
+
+nvim .config/niri/config.kdl
+nvim .config/niri/config.kdl
+nvim Desktop/arch.md
+nvim Syncthing/projects/orgtd/papelito.org
+reboot
+vibepanel
+swww img .config/background
+swww-daemon &
+vibepanel
+nvim .config/niri/config.kdl
+nvim
+reboot
+sudo pacman -Syu
+sudo pacman -S gnome-conec
+sudo pacman -Ss gnome-conec
+sudo pacman -Ss gnome-cone
+sudo pacman -Ss gnome-con
+sudo pacman -S gnome-connections
+sudo pacman -Syu
+tree Syncthing
+du Syncthing
+sudo pacman -Syu
+fastfetch
+reboot
+swww img .config/background
+reboot
+
+sudo pacman -Syu
+sudo pacman -Syu
+fastfetch
+colp
+nvim .config/niri/config.kdl
+flatpak install flathub com.github.finefindus.eyedropper
+cat .config/ghostty/config
+colp
+cat .config/ghostty/config
+fastfetch
+fastfetch
+nvim .config/niri/config.kdl
+cat .config/ghostty/config
+colp
+gedit .config/zsh/aliases.zsh
+fastfetch
+nvim .config/niri/config.kdl
+fastfetch
+nvim .config/niri/config.kdl
+sudo pacman -Ss monitor | grep "wayland"
+sudo pacman -Ss monitor | grep "wayland"
+paru -Ss monitor | grep "wayland"
+sudo pacman -Syu
+fastfetch
+fastfetch
+cd .config
+ls
+ll
+cd Downloads
+cd
+sudo pacman -S hyprland
+fastfetch
+fastfetch
+exit
+fastfetch
+cd Syncthing/projects/
+ls
+niri
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+nvim .config/zsh/zsh_history
+fastfetch
+fastfetch
+nvim .config/zsh/zsh_history
+fastfetch
+fastfetch
+fastfetch
+cd .config
+ls
+cd
+ls .ssh
+ll
+ls
+fastfetch
+fastfetch
+cat /etc/hostname
+sudo nvim /etc/hostname
+sudo emacs /etc/hostname
+cat /etc/host
+cat /etc/hostname
+fastfetch
+nvim .config/zsh/zsh_history
+ll
+cd .config
+ls
+cd autostart
+ls
+fastfetch
+cd
+cd
+tree
+cd
+fastfetch
+cd
+cd .config
+cd
+cd
+fastfetch
+FAS
+cd
+ls
+cd
+cd .config
+ls
+cd
+cd
+ls
+tree
+cd
+ls
+cd
+ls
+cd lidsol-web-site
+ls
+cd ..
+ls
+cd
+cd
+ls
+cd
+cd .config
+cd
+ls
+ll
+podman --
+podman images
+podman images
+cd Syncthing/projects/
+cd lidsol
+ll
+ll
+ls sitio-web-lidsol
+ls Lidsolprototipofigma
+ls Lidsolprototipofigma
+ll Lidsolprototipofigma
+tree Lidsolprototipofigma
+cat Lidsolprototipofigma/index.html
+cat Lidsolprototipofigma/README.md
+cd ..
+ls
+cd lidsol
+ls
+ls lidsol-web-site
+cat lidsol-web-site/Containerfile
+podman imagen
+podman image
+podman image list
+ls
+ls sitio-web-lidsol
+ls sitio-web-lidsol/content
+ls Lidsolprototipofigma
+ls lidsol-web-site
+ls sitio-web-lidsol
+cat PLAN_INTEGRACION_COMPLETA.md
+ls lidsol-web-site
+ls sitio-web-lidsol
+ls Lidsolprototipofigma
+ls lidsol-web-site
+ls
+cat PLAN_INTEGRACION_COMPLETA.md
+cd
+fastfetch
+podman image list
+cd sitio-web-lidsol
+ls
+ll
+ls src
+ls container
+ls
+git switch master
+ls
+git switch feature/new-react-site
+ls
+ls legacy
+podman exec -it lidsol-react sh
+ls
+podman exec -it lidsol-react sh
+ls
+cat RESUMEN_FINAL.md
+podman image list
+podman exec -it lidsol-react sh
+ls
+cd ..
+ls
+ls lidsol-web-site
+ls lidsol-web-site
+ls Lidsolprototipofigma
+ls lidsol-web-site
+ls sitio-web-lidsol
+cd sitio-web-lidsol
+ls
+cd src
+ls
+tree
+nvim components/Hero.tsx
+sudo pacman -Syu
+fastfetch
+podman list
+podman image list
+ls
+cd sitio-web-lidsol
+ls
+ls legacy
+ls
+podman exec -it lidsol-react sh
+sudo pacman -Ss vlc
+sudo pacman -S vlc
+sudo pacman -Ss gnome | grep "video"
+sudo pacman -Ss video
+sudo pacman -Ss video | grep "gnome" 
+flatpak list
+flatpak list
+cd
+ls
+ls
+ls
+dir
+cd sitio-web-lidsol
+ls
+cd ..
+ls
+ls sitio-web-lidsol
+ls
+ls sitio-web-lidsol
+cd sitio-web-lidsol
+ls
+cat dev-start.sh
+cd sitio-web-lidsol
+ls
+ll
+podman image list
+podman image list
+podman image list
+podman image list
+podman image list
+podman image list
+podman image list
+podman image list
+podman image list
+podman image list
+podman image list 
+podman image list 
+ls
+cd ..
+ls
+cd sitio-web-lidsol
+ls
+ll
+cat DESARROLLO_COMPLETO.md
+podman image list 
+podman inspect localhost/lidsol-nginx:0.1
+podman inspect localhost/lidsol-nginx:0.1 | grep "IP"
+podman inspect localhost/lidsol-nginx:0.1 | grep "ip"
+podman inspect localhost/lidsol-nginx:0.1 | grep -i ipaddress
+podman inspect localhost/lidsol-nginx:0.1 | grep -i ipaddress
+podman inspect docker.io/library/nginx:alpine | grep -i ipaddress
+podman inspect -f '{{.NetworkSettings.IPAddress}}' docker.io/library/nginx:alpine
+podman inspect -f '{{.NetworkSettings.IPAddress}}' docker.io/library/nginx:latest
+podman inspect -f '{{.NetworkSettings.IPAddress}}' localhost/lidsol-nginx:0.1
+podman inspect
+ls
+npm run dev
+npm run dev & 
+npm run debuil
+npm run debuld
+ls
+npm run build
+ls
+podman build -t lidsol-react
+podman build -t lidsol-react .
+ls
+fastfetch
+ls
+podman image list
+podman image list
+ip a
+podman image list
+cd
+podman exec -it lidsol-react /bin/sh
+ls
+cd Syncthing/projects
+ls
+cd orgtd
+ls
+cd ..
+cd lidsol
+ls
+cat PLAN_INTEGRACION_COMPLETA.md
+podman container list
+podman container list
+podman container list
+podman container list
+cd lidsol-web-site
+ls
+cd ..
+ls
+cd sitio-web-lidsol
+ls
+./dev-start.sh
+ls
+ls
+podman container list
+npm run dev
+npm run dev & 
+npm run dev &&\
+exit
+npm run dev &
+npm run build &
+podman build -t lidsol-react .
+ls
+ll
+ll
+cat GUIA_DESARROLLO.md
+ls
+ls
+cd
+cd
+ll
+cd ..
+ls
+cd sitio-web-lidsol
+ll
+cd src
+tree
+podman container list
+as
+ls
+podman container list
+podman container list
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ll
+ls legacy
+cd src
+ls
+tree
+podman container list
+podman container list
+podman container list
+podman container list
+podman container list -L
+podman container list -l
+cd Syncthing/projects/lidsol
+ll
+cd sitio-web-lidsol
+ls
+tree src
+podman container list
+podman container list
+podman exec -it lidsol-react /bin/sh
+cd
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ls
+cd Downloads
+git clone https://github.com/ramen-root/Lidsolprototipofigma
+cd
+echo "Creando una clave pÃºblica y privada para github"
+ssh-keygen -t ed25519 -C "ramenroot@protonmail.com"
+ll
+rm github-key*
+ls
+ll
+mkdir .ssh
+ll
+echo "Creando una clave pÃºblica y privada para github"
+ssh-keygen -t ed25519 -C "ramenroot@protonmail.com"
+mv github-key* .ssh
+ls .ssh
+cat "Ve a GitHub âƒ¦ƒ² Settings âƒ¦ƒ² SSH and GPG keys âƒ¦ƒ² New SSH key âƒ¦ƒ² Pega el contenido completo âƒ¦ƒ² Guarda"
+echo "Ve a GitHub âƒ¦ƒ² Settings âƒ¦ƒ² SSH and GPG keys âƒ¦ƒ² New SSH key âƒ¦ƒ² Pega el contenido completo âƒ¦ƒ² Guarda"
+cat .ssh/github-key.pub
+cd
+ssh -T git@github.com
+git clone git@github.com:ramen-root/Lidsolprototipofigma.git
+ls
+ls
+cd Syncthing/projects/Lidsolprototipofigma
+ls
+cat index.html
+cat README.md
+cd
+cd .config/ghostty
+ls
+cd
+cd Syncthing/projects
+LS
+ls
+mkdir lidsol
+ls
+cd lidsol
+ls
+ls
+mkdir lidsol-web-site
+cd lidsol-web-site
+mkdir public
+touch Containerfile nginx.conf README.md
+ll
+tree
+tree
+nvim nginx.conf
+cat nginx.conf
+nvim Containerfile
+cat Containerfile
+ls
+podman build -t lidsol-nginx:0.1 .
+nvim Containerfile
+cat Containerfile
+podman build -t lidsol-nginx:0.1 .
+podman images
+podman run -d --name lidsol-web -p 8080:80 lidsol-nginx:0.1
+ls
+tree
+ls
+cat README.md
+cd ..
+ls
+ls -a
+ls
+ls
+git clone https://github.com/LIDSOL/sitio-web-lidsol
+ls
+git clone https://github.com/ramen-root/sitio-web-lidsol
+ls
+ls sitio-web-lidsol
+ls
+ls lidsol-web-site
+ls
+cd sitio-web-lidsol
+ls
+cd ..
+ls
+ll
+ls lidsol-web-site
+ls Lidsolprototipofigma
+ls sitio-web-lidsol
+ls
+cd ..
+ls
+cd lidsol
+ls
+cd sitio-web-lidsol
+ls
+cd ..
+ll
+cd Lidsolprototipofigma
+ls
+cd src
+ls
+emacs
+l
+cd
+cd Syncthing/projects/lidsol
+ll
+tree Lidsolprototipofigma
+ll sitio-web-lidsol
+ll lidsol-web-site
+ls
+ll
+tree
+ll
+nvim PLAN_INTEGRACION_COMPLETA.md
+ls
+cat PLAN_INTEGRACION_COMPLETA.md
+podman container list
+cd sitio-web-lidsol
+git switch master
+ls
+ls legacy
+cat DESARROLLO_COMPLETO.md
+cd
+ls
+cd Syncthing/projects/lidsol
+ls
+cat PLAN_INTEGRACION_COMPLETA.md
+cd sitio-web-lidsol
+ls
+ls
+ls
+ls legacy
+cd
+ls
+cd
+flatpak install flathub io.github.celluloid_player.Celluloid
+cd
+ls
+flatpak list
+flatpak list
+flatpak remove org.gnome.Showtime
+sudo pacman -S neovim
+fastfetch
+fastfetch
+sudo pacman -S neovim
+fastfetch
+cd
+mkdir .config/nvim
+cd .config
+ls
+cd nvim
+ls
+mkdir -p lua/config
+tree
+touch init.lua lua/config/lazy.lua
+tree
+nvim init.lua
+nvim ~/.config/zsh/aliases.zsh
+source ~/.zshrc
+ls
+nvim init.lua
+ls ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy
+nvim
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ls
+cd src
+ll
+tree
+ls
+cd components
+ls
+nvim Footer.tsx
+exit
+ls
+rm neorg
+rmdir neorg
+ls
+cd
+sudo pacman -Syu
+nvim
+d
+cd
+cd 
+cd
+cd
+cd Syncthing/projects/orgtd
+ls
+cat inbox.org
+cat calendar.org
+cat someday.org
+kill emacs
+sudo pacman -S make tree-sitter-cli ripgrep gcc make
+cd
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+cd .config
+ls
+cd nvim
+ls
+nvim
+cd
+s
+ls
+fc-list
+fc-list
+fc-list | grep nerd
+fc-list | grep Nerd
+fc-list | grep Nerd
+cd
+nvim .config/nvim/init.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+colp
+nvim Syncthing/projects/orgtd/papelito.org
+nvim Syncthing/projects/lidsol/Lidsolprototipofigma/src/components/Footer.tsx
+nvim
+nvim .config/niri/config.kdl
+nvim +
+nvim
+nvim
+nvim
+nvim .config/nvim/lua/plugins/init.lua
+nvim
+nvim
+nvim
+nvim
+nvim
+ls .local/share/nvim/base46
+nvim .config/nvim/lua/plugins/init.lua
+nvim .config/nvim/lua/plugins/init.lua
+nvim
+nvim .config/nvim/lua/plugins/init.lua
+nvim .config/nvim/lua/plugins/init.lua
+mkdir -p ~/.config/nvim/lua/custom/themes\
+nvim ~/.config/nvim/lua/custom/themes/adwaita.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/custom/themes/adwaita.lua 
+nvim
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/plugins/init.lua
+nvim
+nvim .config/nvim/lua/plugins/init.lua
+nvim
+nvim .config/nvim/lua/chadrc.lua
+mkdir -p ~/.config/nvim/lua/custom/themes\
+nvim ~/.config/nvim/lua/custom/themes/adwaita.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim
+nvim Syncthing/projects/lidsol/Lidsolprototipofigma/src/components/Footer.tsx
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim
+nvim
+nvim
+nvim
+nvim .config/ghostty/config
+tree .local/share/nvim
+ls .local/share/nvim/lazy/base46/lua/base46/themes
+nvim /home/owl/.local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/ashes.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/material-darker.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+ls .local/share/nvim/base46
+ls .local/share/nvim/base46/colors 
+ls .local/share/nvim/lazy/base46/lua/base46/themes
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim Syncthing/projects/lidsol/Lidsolprototipofigma/src/components/Footer.tsx
+nvim .config/nvim/lua/chadrc.lua
+ls .local/share/nvim/lazy/base46/lua/base46/themes
+ls .local/share/nvim/lazy/base46/lua/base46/themes | grep "adwaita"
+podman container list
+nvim .config/nvim/lua/plugins/neorg.lua
+rm -rf ~/.local/share/nvim/lazy/neorg\
+rm -rf ~/.local/share/nvim/lazy/nvim-treesitter\
+
+nvim 
+cd .config
+rm -rf nvim
+ls
+cd
+sudo pacman -S ripgrep tree-sitter-cli
+sudo pacman -Ss mason
+patu -Ss mason
+patru -Ss mason
+paru -Ss mason
+cd
+fastfetch
+nvim
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ls
+cd src
+ls
+nvim components/He
+nvim components/Hero.tsx
+nvim
+cd
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/plugins/init.lua
+nvim .config/nvim/lua/plugins/init.lua
+nvim .config/nvim/lua/plugins/init.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim ~/.config/nvim/lua/custom/chadrc.lua
+nvim ~/.config/nvim/lua/chadrc.lua
+nvim ~/.config/nvim/lua/chadrc.lua
+tree .config/nvim
+nvim .config/nvim/lua/chadrc.lua
+rm -rf .config/nvim
+nvim
+nvim Syncthing/projects/lidsol/sitio-web-lidsol
+nvim Syncthing/projects/lidsol/sitio-web-lidsol
+cd
+nvim
+cd
+ls
+fastfetch
+nvim
+cd
+nvim
+fastfetch
+mkdir -p ~/.config/nvim/lua/custom/base46/themes\
+mv ~/.config/nvim/lua/custom/themes/adwaita.lua \\
+   ~/.config/nvim/lua/custom/base46/themes/adwaita.lua
+nvim .config/nvim/lua/custom/base46/themes/adwaita.lua
+nvim .config/nvim/lua/custom/base46/init.lua
+nvim
+nvim .config/nvim/init.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ls
+cat GUIA_DESARROLLO.md
+podman stop lidsol-react
+cd
+ls
+cd .config
+ks
+ls
+cd
+cd
+sudo pacman -Syu
+ls
+cd
+reboot
+ls
+cd ..
+ls
+opencode
+opencode
+nvim
+cd
+nvim .config/nvim/init.lua
+nvim .config/nvim/lua/config/lazy.lua
+nvim
+nvim
+nvim .config/nvim/lua/config/lazy.lua
+ls .local/share/nvim/lazy/lazy.nvim
+nvim --clean
+nvim
+nvim
+ls .local/share/nvim/lazy/lazy.nvim
+tree .local/share/nvim
+cat .local/share/nvim/lazy/lazy.nvim
+cat .local/share/nvim/lazy/lazy.nvim
+tree .local/share/nvim
+cat .config/nvim/*
+tree .local/share/nvim
+cat .config/nvim/init.lua
+cat .config/nvim/lua/config/lazy.lua
+ls /bin | grep "nvim"
+ls /bin | grep "git"
+nvim
+nvim --clean
+rm -rf ~/.local/share/nvim/lazy/lazy.nvim
+nvim .config/nvim/lua/config/lazy.lua
+nvim
+nvim
+mkdir -p .config/nvim/lua/plugins
+nvim .config/nvim/lua/config/lazy.lua
+touch .config/nvim/lua/plugins/neorg.lua
+nvim .config/nvim/lua/plugins/neorg.lua
+nvim .config/nvim/lua/plugins/neorg.lua
+nvim .config/nvim/lua/plugins/neorg.lua
+nvim
+nvim
+touch .config/nvim/lua/plugins/treesitter.lua
+nvim .config/nvim/lua/plugins/treesitter.lua
+nvim
+nvim
+nvim
+tree .config/nvim
+cat .config/nvim/lua/config/lazy.lua
+cat .config/nvim/lua/plugins/treesitter.lua
+nvim
+nvim .config/nvim/lua/config/lazy.lua
+rm -rf ~/.local/share/nvim/lazy
+nvim
+nvim
+nvim .config/nvim/lua/plugins/neorg.lua
+nvim
+nvim
+nvim
+nvim .config/nvim/lua/plugins/treesitter.lua
+nvim .config/nvim/lua/plugins/treesitter.lua
+nvim
+rm -rf ~/.local/share/nvim/lazy/nvim-treesitter
+nvim
+nvim
+nvim
+ls ~/.local/share/nvim/lazy
+nvim --cle
+nvim --clean
+rm -rf ~/.local/share/nvim/lazy/nvim-treesitter
+nvim
+nvim
+ls /bin | grep "gcc" "make" "curl"
+ls /bin | grep "gcc"
+ls /bin | grep "make"
+ls /bin | grep "curl"
+sudo pacman -S base-devel gcc make
+rm -rf ~/.local/share/nvim/lazy/nvim-treesitter
+nvim
+rm -rf ~/.local/share/nvim/lazy/nvim-treesitter
+nvim
+nvim .config/nvim/lua/plugins/treesitter.lua
+rm -rf ~/.local/share/nvim/lazy/nvim-treesitter
+nvim
+nvim .config/nvim/lua/plugins/treesitter.lua
+rm -rf ~/.local/share/nvim/lazy/nvim-treesitter
+nvim
+cd .config
+ls
+rm -rf nvim
+mkdir nvim
+tree nvim
+cd
+rm -rf ~/.local/share/nvim
+ls
+cd .config/nvim
+ls
+mkdir -p lua/config lua/plugins 
+touch init.lua lua/config/lazy.lua lua/config/plugins/treesitter.lua lua/config/plugins/neorg.lua
+mkdir -p lua/config/plugins
+touch init.lua lua/config/lazy.lua lua/config/plugins/treesitter.lua lua/config/plugins/neorg.lua
+nvim init.lua
+nvim lua/config/lazy.lua
+nvim lua/plugins/treesitter.lua
+nvim lua/plugins/neorg.lua
+nvim lua/plugins/treesitter.lua
+nivi
+nvim
+nvim lua/plugins/neorg.lua
+nvim lua/plugins/neorg.lua
+nvim lua/plugins/neorg.lua
+tree
+cd
+ls
+cd
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ls .local/share/nvim
+tree .local/share/nvim
+nvim
+nvim
+nvim
+fastfetch
+cd
+nvim
+ls .config/nvim
+tree .config/nvim
+nvim .config/nvim/lua/plugins/init.lua
+nvim +
+nvim
+colp
+nvim .config/ghostty/config
+nvim .config/nvim/init.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/chadrc.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim
+colá¹ƒµ
+colp
+nvim
+nvim .config/nvim/lua/chadrc.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+colp
+colp
+nvim .config/ghostty/config
+nvim .config/ghostty/config
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .config/ghostty/config
+nvim .config/ghostty/config
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim Syncthing/projects/lidsol/sitio-web-lidsol
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/index.html
+sudo pacman -Rns gnome-text-editor
+sudo pacman -Rns gnome-text-editor
+fastfetch
+nvim .config/ghostty/config
+cd Syncthing
+ls
+mkdir backups documents media projects
+ls
+ll
+cd media
+mkdir music pictures videos
+ls
+cd ..
+ls
+cd projects
+ls
+mkdir orgtd lidsol freelancer
+ls
+cd lidsol
+ls
+cd ..
+cd orgtd
+ls
+touch inbox.org projects.org next.org someday.org calendar.org habits.org papelito.org
+ll
+ls
+rm .org*
+ls
+rm *.org
+ls
+nvim
+ls
+touch inbox.org projects.org someday.org calendar.org habits.org papelito.org
+ll
+pwd
+ls -l
+ls
+ll
+tree
+cd
+flatpak install flathub dev.geopjr.Calligraphy
+cd Syncthing/projects
+ls
+cd orgtd
+ls
+cd
+cd Syncthing/projects
+ls
+cd
+cd Syncthing/documents
+ls
+mkdir digital-garden
+ls
+cd digital-garden
+ls
+mkdir computer science languages literature misc
+ls
+nvim 20260123140926-home.org
+flatpak list
+flatpak remove md.obsidian.Obsidian
+sudo pacman -S gnome-builder
+podman list
+podman co
+podman container list
+podman container list
+nvim
+nvim .config/ghostty/config
+cd
+ls
+cat arbol-lidsol-nuevo
+exit
+podman container list
+cd
+cat para-organizar/papelito.org | grep "github"
+cd
+fastfetch
+lsblk
+fastfetch
+fastfetch
+sudo pacman -S less
+sudo pacman -S less
+cd
+nvim .config/nvim/lua/chadrc.lua
+ls
+ls
+cd
+ls
+sudo pacman -Sty
+nvim Desktop/arch.md
+reboot
+cd
+cd Syncthing/projects
+ls
+cd lidsol
+ls
+git clone https://github.com/ramen-root/sitio-web-lidsol
+ls
+ls -a
+git clone git@github.com:ramen-root/sitio-web-lidsol
+ls
+cd sitio-web-lidsol
+git status
+tree -d
+git status 
+ls -Ra
+tree -a
+git status 
+cd
+cd
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ls
+git checkout -b rewrite/lidsol-web-v2
+git status
+ls
+mkdir legacy
+ll
+mv config content static themes \\
+   .hugo_build.lock Dockerfile Makefile .gitmodules \\
+   legacy/
+ll
+ls container
+ls legacy
+ls container
+ll
+ll
+cat LICENSE
+ll
+pwd
+ll
+mv container legacy
+ll
+tree -L 1
+ls
+cp README.md legacy
+ls
+ls legacy
+ls
+ll
+git log
+ls
+ls .git
+ls .git/logs
+ls .git/logs/refs
+ls
+ls
+ls legacy
+ls
+ll
+ls
+git tags
+git tag
+ls
+git switch rewrite/lidsol-web-v2
+ls
+git add legacy/
+ll
+git commit -m "MovÃ­ todo el sitio Hugo actual al directorio legacy"
+git config user.name "urt"
+git config user.email "ramenroot@users.noreply.github.com"
+git config --list | grep user
+git commit -m "chore(legacy): move Hugo site to /legacy"
+ls
+ls
+git log --online
+git log
+ls
+git log
+git status
+git checkout b34bc24
+ls
+ls
+git status
+git switch -
+ls
+ls
+ls
+ls
+ls
+npm run build
+podman container list
+ls
+podman build -t lidsol-react .
+podman run -d -p 8080:80 lidsol-react 
+podman container list
+ls
+cat index.html
+cat Containerfile
+ls
+ls container
+ls node_modules
+ls
+cd src
+ls
+tree
+ls
+nvim index.css
+ls
+ls
+cd ..
+ls
+nvim README.md
+nvim README.md
+git status
+ls
+git branch --show-current
+cat >> .gitignore <<EOF\
+node_modules/\
+build/\
+EOF
+git status
+git diff --stat
+git diff --stat
+git diff --stat
+git diff --stat
+ls
+git add .
+git status
+ls legacy
+git status
+git commit -m "feat(rewrite): migrate site from Hugo to React, Vite, Tailwind CSS + container setup"
+git tag v2.0.0-rewrite
+git tag 
+git remote -v
+git push origin rewrite/lidsol-web-v2
+git push origin v2.0.0-rewrite
+git push --tags
+ls
+ls
+ls
+cd para-organizar/projects/
+ls
+cd lidsol
+ls
+cd Lidsolprototipofigma
+tree
+cd ..
+ls
+cd sitio-web-lidsol
+ls
+cat PORTABILIDAD.md
+tree -a
+ls
+ls -a
+ls -a
+tree -a
+tree > ~/arbol-lidsol-nuevo
+ls
+cd
+ls
+cd para-organizar
+ls
+cd projects
+ls
+cd lidsol
+ls
+opencode
+cd
+cd para-organizar/projects
+ls
+cd lidsol
+ls
+cd sitio-web-lidsol
+ls
+cat GUIA_DESARROLLO.md
+cat RESUMEN_FINAL.md
+cd
+sudo pacman -Syu
+sudo pacman -Syu
+cd
+fastfetch
+cd .config/vibepanel
+ls
+cat config.toml
+nvim .config/vibepanel/config.toml
+podman container list
+podman container list
+nvim .config/vibepanel/config.toml
+reboot
+cd
+ll
+ls
+clear
+ls
+clear
+fastfetch
+sudo pacman -Syu
+sudo pacman -Rty
+sudo pacman -Syu
+lsblk
+lsblk
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ls
+ls
+cd Syncthing/projects
+cd lidsol
+ls
+ls
+sudo systemctl hibernate
+cd
+cd Syncthing/projects
+ls
+cd orgtd
+ll
+tree
+ll
+ls
+ll
+ll
+sudo systemctl hibernate
+
+fastfetch
+cd .config
+ls
+paru -Ss wl-gamm
+echo $XDG_SESSION_TYPE
+which xwayland-satellite
+nvim .config/niri/config.kdl
+fastfetch
+emacs
+sudo pacman -Ss xwayland-satellite\
+
+sudo pacman -S xwayland-satellite\
+
+sudo pacman -S xwayland-satellite\
+
+paru -S wl-gamm
+paru -Ss wl-gamm
+paru -S wl-gammarelay
+fastfetch
+reboot
+cd co
+cd
+fastfetch
+cd Syncthing/projects
+ls
+cd lidsol
+ll
+cd sitio-web-lidsol
+ls
+tree src
+cd
+fastfetch
+fastfetch
+reboot
+reboot
+fastfetch
+cd
+fastfetch
+sudo pacman -Syu
+sudo pacman -Ss brigh
+nvim .config/niri/config.kdl
+cd
+nvim .config/vibepanel/config.toml
+nvim .config/niri/config.kdl
+cd
+reboot
+sudo pacman -Syu
+sudo pacman -Ss hyprmon
+paru -Ss hyprmon
+paru -Ss wdisplays
+paru -S hyprmon-bin
+paru -S wdisplays
+fastfetch
+fastfetch
+fastfetch
+sudo pacman -Rns vibepanel-bin niri
+sudo pacman -S hyprland
+fastfetch
+fastfetch
+cd Syncthing/projects/lidsol
+s
+ll
+cd sitio-web-lidsol
+ll
+nvim
+nvim src
+sudo pacman -Syu
+sudo pacman -Syu
+cd
+sudo pacman -Syu
+reboot
+fastfetch
+fastfetch
+cd
+fastfetch
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ls
+cd
+ls
+fastfetch
+reboot
+cd
+cd para-organizar/projects
+ls
+cd lidsol
+ls
+ls
+cat PLAN_INTEGRACION_COMPLETA.md
+ls Lidsolprototipofigma
+ls lidsol-web-site
+ls
+cd sitio-web-lidsol
+ls
+cat DESARROLLO_COMPLETO.md
+ls
+tree src
+ls
+ls
+ll -R src
+exit
+exit
+cd para-organizar
+cd projects
+ls
+cccccccccccd
+cd
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ls
+cd
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+ls
+ls
+podman container list
+podman build -t lidsol-react .
+podman run -d -p 8080:80 lidsol-react
+tree src
+cd
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+ls
+cd src
+ls
+cd components
+ls
+nvim Footer.tsx
+git status
+ls
+nvim Footer.tsx
+podman restart lidsol-react
+podman container list
+podman restart lidsol-react
+podman restart lidsol-react
+npm run build && \ podman cp build/ lidsol-react:/usr/share/nginx/html/
+ll
+cd ..
+ls
+cd ..
+ls
+./dev-simple.sh
+podman container list
+ls
+./dev-start.sh
+podman container list
+ls
+rm dev-start.sh
+ls
+ls
+ls 
+exit
+podman container list
+ls
+ls -lR src
+ls
+podman container list
+podman rm -f lidsol-web
+podman container list
+podman rm -f 518283e0e078
+podman container list
+ls
+touch watch_and_build.sh
+nvim watch_and_build.sh
+ll
+chmod 700 watch_and_build.sh
+ll
+./watch_and_build.sh &
+sudo pacman -Ss inotifywait
+sudo pacman -Ss inotifywait
+paru -Ss inotifywait
+sudo pacman -Ss inotifywait
+paru -Ss inotifywait
+sudo pacman -S inotify-tools
+ll
+./watch_and_build.sh &
+podman container list
+rm watch_and_build.sh
+ls
+ls
+ll
+touch dev.sh
+nvim dev.sh
+chmod 700 dev.sh
+ll
+nvim dev.sh
+./dev.sh
+nvim dev.sh
+nvim dev.sh
+./dev.sh
+./dev.sh
+nvim dev.sh
+nvim dev.sh
+./dev.sh
+nvim dev.sh
+./dev.sh
+podman build -t lidsol-react .
+podman container list~
+podman container list
+podman run -d -p 8080:80 lidsol-react
+cat src/components/Community.tsx
+cat src/components/About
+cat src/components/AboutMember.tsx
+cat src/components/About.tsx
+podman~ container list
+podman container list
+podman container list
+podman container list
+podman container list
+podman container list
+podman container list
+podman container list
+ls
+cd Syncthing/projects/lidsol
+ls
+cd
+cd para-organizar/projects
+ls
+cd lidsol
+ls
+cat PLAN_INTEGRACION_COMPLETA.md
+cat sitio-web-lidsol/GUIA_DESARROLLO.md
+cat sitio-web-lidsol/DESARROLLO_COMPLETO.md
+ls
+cat sitio-web-lidsol/RESUMEN_FINAL.md
+cat sitio-web-lidsol/DESARROLLO_COMPLETO.md
+cat sitio-web-lidsol/GUIA_DESARROLLO.md
+cat sitio-web-lidsol/DESARROLLO_COMPLETO.md
+ls
+cd src
+ls
+nvim components/Footer.tsx
+exit
+ls
+podman container list
+podman rm -f d331e46860fd
+podman container list
+ls
+npm run dev
+npm run dev &
+npm run dev
+podman build -t lidsol-react .
+podman run -d -p 8080:80 lidsol-react
+ls
+podman container list
+podman rm -f d331e46860fd
+podman container list
+podman rm -f d9038bcbc6b9
+podman container list
+fastfetch
+fastfetch
+ls
+ls
+tree src
+exit
+exit
+exit
+exit
+exit
+ls
+ ls -R src
+ls
+cat Containerfile
+cat container/Dockerfile
+cat container/build.sh
+cat container/nginx.conf
+exit
+exit
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/index.html
+cd
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+tree
+tree src
+cd Syncthing/projects/lidsol/sitio-web-lidsol/src/
+ls
+cd components/ui
+ls
+cd source
+ls
+nvim facebook.svg
+cd Syncthing/projects/lidsol
+ls
+cd sitio-web-lidsol
+ls
+ls
+cd src/components/ui
+ls
+cd source
+ls
+cat *
+cat *
+cat * > ~/Desktop/svg.txt
+cat ~/Desktop/svg.txt
+ls
+cat *
+/bin/cat *
+cat facebook.svg
+cat git
+ls
+cat facebook.svg
+cat gitlab.svg
+cat mail-open.svg
+cat twitter.svg
+cat github.svg
+cat instagram.svg
+cat send.svg
+cat youtube.svg
+cat code-xml.svg
+ks
+touch FacebookIcon.tsx
+nvim FacebookIcon.tsx
+nvim FacebookIcon.tsx
+python
+ls
+cd 
+cd DO
+cd Downloads
+ls
+cat linkedin.svg
+/bin/cat linkedin.svg
+ls
+cd ui/source/images
+ls
+ll
+pwd
+cd ..
+cd icons
+ll
+/bin/cat ~/Downloads/linkedin.svg
+ls
+ls
+nvim linkedinIcon.tsx
+flatpak install flathub io.github.nokse22.minitext
+cd
+ls
+cd ..
+ls
+cd data
+ls
+cat members.ts
+fastfetch
+cd
+fastfetch
+pi a
+ip a
+s
+ls
+cd
+ls
+podman container list
+podman container list
+podman
+podman container list
+cd
+fastfetch
+ls
+cd .
+cd
+ls
+nvim
+opencode
+ls
+ll
+cd Syncthing/projects/lidsol
+ls
+ls
+cd sitio-web-lidsol
+ls
+cd src
+ls
+tree
+cd components
+ls
+ls
+tree
+cd ui
+mkdir source
+ls
+cd ..
+tree
+ls
+cd ui/source
+ls
+ls
+ls
+cd
+cd Syncthing/projects/lidsol/sitio-web-lidsol/src/components/ui
+ll
+cd source
+ll
+touch GitlabIcon.tsx MailOpenIcon.tsx TwitterIcon.tsx GithubIcon.tsx InstagramIcon.tsx SendIcon.tsx YoutubeIcon.tsx 
+nvim YoutubeIcon.tsx
+nvim SendIcon.tsx
+nvim InstagramIcon.tsx
+nvim GithubIcon.tsx
+nvim TwitterIcon.tsx
+nvim MailOpenIcon.tsx
+nvim GitlabIcon.tsx
+ls
+ll
+ls
+mkdir icons
+ls
+mkdir images
+ls
+ls
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ll
+ls src
+ls legacy
+while inotifywait -r -e modify,create,delete --exclude 'node_modules|build' src/; do\
+    npm run build\
+done
+cd ..
+cd
+cd para-organizar/projects/lidsol
+ls
+cat sitio-web-lidsol/DESARROLLO_COMPLETO.md
+ls
+ls
+cd
+cd Syncthing/projects/lidsol
+cd sitio-web-lidsol
+ls
+npm run build
+podman container list
+podman rm -f lidsol-react 2>/dev/null || true\
+podman run -d \\
+    --name lidsol-react \\
+    -p 8080:80 \\
+    -v "$(pwd)/build:/usr/share/nginx/html:ro" \\
+    nginx:alpine
+cd Syncthing/projects
+ls
+cd lidsol/sitio-web-lidsol
+ls
+ll
+nvim dev.sh
+nvim dev.sh
+ls
+nvim src/components/
+cd
+nvim .config/nvim/lua/chadrc.lua
+nvim
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+nvim .local/share/nvim/lazy/base46/lua/base46/themes/adwaita.lua
+cd
+nvim .config/nvim/lua/chadrc.lua
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/index.html
+nvim .config/nvim/lua/chadrc.lua
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/Footer.tsx
+cd Syncthing/projects/lidsol/sitio-web-lidsol/src/components
+ls
+vscodium Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+nvim Footer.tsx
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd sitio-web-lidsol
+ls
+ls
+fastfetch
+cd
+cd 
+fastfetch
+exit
+cd ..
+cd sitio-web-lidsol
+cd src/data
+l
+cd u
+ls
+cd ..
+ls
+cd components/ui/source
+ls
+cd i
+cd images
+pwd
+podman container list
+opencode
+ls
+cd src
+ls
+cd data
+ls
+cd ..
+cd components/ui/source
+ls
+tree images
+cd ..
+tree source/images
+fastfetch
+ls
+cd src/components/ | grep "Time"
+cd src/components/ | grep "time"
+ls
+ls src/components/ | grep "time"
+ls src/components/ 
+ls src/components/ | grep "Timeline.tsx"
+podman container list
+ll
+cd src/components/ui/source
+ll
+tree in
+tree icons
+loupe icons/send.svg
+loupe icons/code-xml.svg
+cd src
+tree
+nvim ~/Downloads/globe.svg
+cd 
+cd Syncthing/projects/lidsol/sitio-web-lidsol/src/components
+ls
+cd i
+cd ui
+ls
+cd source
+lsl
+ls
+cd icons
+ls
+nvim globe.svg
+nvim globe.tsx
+cd
+cd Downloads
+ls
+nvim About.tsx
+rm About.tsx
+ls
+rm members.ts
+nvim AboutMember.tsx
+cd
+cd
+tree
+tree src
+tree src
+tree src
+cd
+cat Syncthing/projects/lidsol/sitio-web-lidsol/src/index.css
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/index.css
+cd
+fastfetch
+sudo pacman -Syu
+sudo pacman -Syu
+cd 
+cd Desktop
+ls
+cd
+cd
+lll
+ll
+cd cd ..
+cd ..
+ls
+cd legacy
+ls
+ls -R
+ls -R | grep "Diego"
+ls -R | grep "diego"
+ls -R | grep "about"
+nvim content/about/about.md
+nvim content/about/people.md
+ls content/authors/
+ls -R content/authors/
+ls -R content/authors/ | xargs cat
+ls
+cd content/authors
+ls
+ls
+ls admin
+/bin/cat *
+/bin/cat *
+ls
+cat *
+ls
+cat luztorres/*
+cd
+podman container list
+podman container list
+podman container list
+cd
+cat .config/ghostty/config
+cd
+nvim .config/ghostty/config
+cd
+sudo pacman -Syu
+nvim .config/zsh/zsh_history 
+colp
+cd .config
+nvim .config/zsh/.zsh
+nvim .config/zsh/.zshrc
+cd
+cd
+fastfetch
+ls
+lsd
+dir
+podman container list
+cd
+flatpak run io.gitlab.theevilskeleton.Upscaler
+cd
+nvim .config/zsh/.zshrc
+podman container list
+podman container list
+podman container list
+ls
+ls -R src
+tree src
+fastfetch
+cd
+fastfetch
+fastfetch
+cd
+fastfetch
+cd
+fas
+fastfetch
+podman container list
+podman container list
+podman container list
+paru -Ss tewisay
+podman container list
+fastfetch
+lsblk
+lsblk
+lsblk
+cd Syncthing/projects/lidsol/sitio-web-lidsol/src
+ls
+ls
+cd com
+tree
+cd ..
+tree src
+ls
+nvim
+ls
+cd src
+ls
+nvim
+nvim components/About
+nvim components/AboutMember.tsx
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+ls
+ls
+cd
+ls
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+ls
+npm run build
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+l
+l
+ll
+# En una terminal separada\
+while inotifywait -r -e modify,create,delete --exclude 'node_modules|build' src; do\
+    npm run build\
+done
+cd Syncthing/projects/lidsol/sitio-web-lidsol/
+ls
+cd ..
+ls
+cd sitio-web-lidsol
+# Elimina cualquier contenedor anterior (opcional pero recomendable)\
+podman rm -f lidsol-react 2>/dev/null || true\
+\
+podman run -d \\
+    --name lidsol-react \\
+    -p 8080:80 \\
+    -v "$(pwd)/build:/usr/share/nginx/html:ro" \\
+    nginx:alpine
+opencode
+cd 
+cd Syncthing/projects/lidsol/sitio-web-lidsol/src
+ls
+cd components
+ls
+cd com
+ls
+cd ..
+ls
+cd components
+s
+ls
+nvim Timeline.tsx
+cd ..
+ls
+cat index.css
+nvim index.css
+cd
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+ls
+cd src
+ls
+opencode
+ll
+pwd
+cd ..
+ls
+ls
+tree src
+podman container list
+cd
+fastfetch
+reboot
+ls
+cd ..
+ls
+cd sitio-web-lidsol
+ls
+git status
+ls
+git status
+git add .
+git commit -m "feat: First version of the about page, add Timeline.tsx"
+git push origin rewrite/react-v2
+git push origin rewrite/lidsol-web-v2 
+git tag v2.1.0
+git push origin v2.1.0
+git status
+git add .
+git commit -m "feat: Interests were added in the form of tags."
+git push origin rewrite/lidsol-web-v2
+git tag v2.1.1
+git push origin v2.1.1
+git git reset --hard 9f4239c
+git reset --hard 9f4239c
+git status
+git status
+git add .
+git commit -m "fix: If certain information (e.g., bio, role) was not added to the members.ts file, the about section would stop working. This has been corrected so that it is not necessary to add all fields; MemberCategory will be mandatory."
+git push origin rewrite/lidsol-web-v2
+git tag v2.1.2
+git push origin v2.1.2
+git status
+git add .
+git commit -m "feat: Se aÃ±adiÃ³ la informaciÃ³n de los miembros de LIDSoL, la informaciÃ³n que hay en la pÃƒgina actual. Los datos se almacenan en data/members.ts y las imÃƒgenes de perfil en components/ui/source/images. Igual mÃƒs adelante podemos aÃ±adir la informaciÃ³n de nuevos miembros o cambiar la info si asÃ­ lo desean"
+git push origin rewrite/lidsol-web-v2
+git tag v2.1.3
+git push origin v2.1.3
+sudo pacman -Rns vibepanel-bin niri
+sudo pacman -S hyprland waybar rofi-wayland
+sudo pacman -S hyprland waybar
+sudo pacman -S hyprland rofi-wayland
+sudo pacman -S hyprland rofi-wayland waybar
+fsa
+fastfetch
+reboot
+podman container list
+fastfetch
+nvim .config/hypr/hyprland.conf
+nvim .config/hypr/hyprland.conf
+nvim .config/hypr/hyprland.conf
+cd .config/fastfetch
+ls
+xwayland-satellite
+nvim .config/hypr/hyprland.conf
+nvim .config/hypr/hyprland.conf
+nvim .config/hypr/hyprland.conf
+fastfetch
+fastfetch
+fastfetch
+fsa
+fastfetch
+fastfetch
+fastfetch
+nvim .config/hypr/hyprland.conf
+fastfetch
+fastfetch
+sudo pacman -Rns gnome
+sudo pacman -R gnome
+sudo pacman -Rns gnome
+sudo pacman -Rns gnome gnome-settings
+sudo pacman -Rns gnome gnome-control-center
+sudo pacman -Rns gnome gnome-settings-daemon
+sudo pacman -Rns gnome gnome-settings-daemon mutter+
+sudo pacman -Rns gnome gnome-settings-daemon mutter
+fastfetch
+sudo pacman -Syu
+fastfetch
+fastfetch --all
+fastfetch --config all
+nvim .config/rofi/config.rasi
+cd .config/rofi
+ls
+nvim scripts/launcher_t1
+nvim scripts/launcher_t2
+nvim config.rasi
+cd
+nvim .config/hypr/hyprland.conf
+fastfetch
+1fas
+fastfetch
+fastfetch
+nvim .config/ghostty/config
+fastfetch
+nvim .config/hypr/hyprland.conf
+cd .config/rofi
+ls
+nvim config.rasi
+fastfetch
+fastfetch --config all
+fastfetch
+cd .config/rofi
+ls
+nvim config.rasi
+cd colors
+ls
+cd ..
+./rofi-wifi-menu.sh
+cd .config/rofi
+./rofi-wifi-menu.sh
+nvim .config/hypr/hyprland.conf
+reboot
+cd .config/rofi
+ls
+nvim launchers/type-4/launcher.sh
+ls launchers
+ls launchers/type-4
+nvim launchers/type-4/shared/colors.rasi
+fastfetch
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+ls
+cd ..
+ls
+cd sitio-web-lidsol
+ls
+fastfetch
+sudo pacman -Syu
+nvim .config/waybar/
+nvim
+nvim
+fastfetch
+fsa
+fastfetch
+fastfetch
+fastfetch
+nvim .config/waybar/config
+fastfetch
+fastfetch
+fastfetch --config all
+fastfetch
+fastfetch
+fastfetch
+nvim
+fastfetch
+fastfetch
+fastfetch
+nvim .config/waybar/config
+fastfetch
+fas
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+sudo pacman -Syu
+fastfetch
+fastfetch
+cd
+nvim .config/waybar/config.jsonc
+fastfetch
+nvim .config/waybar/config.jsonc
+sudo pacman -S grim
+nvim .config/waybar/config.jsonc
+cd .config/rofi
+ls
+cd scripts
+ls
+cd
+cd wa
+cd .config/waybar
+ls
+cd scripts
+ls
+chmod 700 *
+ls
+nvim mediaplayer.py
+cd
+gtklock
+fastfetch
+nvim .config/waybar/config.jsonc
+cd .config/waybar
+ls
+tree
+nvim scripts/mediaplayer.py
+nvim .config/hypr/hyprland.conf
+nvim .config/hypr/hyprland.conf
+nvim .config/hypr/hyprland.conf
+nvim .config/hypr/hyprland.conf
+reboot
+nvim .config/hypr/hyprland.conf
+fastfetch
+ls /usr/share/icons
+nvim
+sudo pacman -Rns hyprland
+fastfetch
+fastfetch
+nvim .config/niri/config.kdl
+fastfetch
+paru -Ss bibata
+paru -S bibata-cursor-theme-bin
+paru -Rns bibata-cursor-theme-bin
+ls /usr/share/icons
+paru -Ss bibata
+paru -Ss bibata-cursor-theme
+paru -S bibata-cursor-theme
+paru -S bibata-cursor-theme
+fastfetch
+reboot
+sudo pacman -S niri
+fastfetch
+ls /usr/share/icons
+sudo pacman -Ss refine
+paru -Ss refine
+paru -Rns refine
+reboot
+paru -S refine
+sudo pacman -S niri
+reboot
+nvim .config/waybar/config.jsonc
+nvim .config/niri/config.kdl
+rofi
+nvim .config/hypr/hyprland.conf
+nvim .config/niri/config.kdl
+fastfetch
+sudo pacman -Rns grim
+fastfetch
+nvim .config/niri/config.kdl
+nvim .config/zsh/.zshrc
+reboot
+sudo pacman -Syu
+reboot
+nvim .config/zsh/.zshrc
+nvim .config/niri/config.kdl
+fastfetch
+sudo pacman -Rns waybar
+fastfetch
+nvim .config/niri/config.kdl
+nvim .config/waybar/config.jsonc
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+sudo pacman -Syu
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/Footer.tsx
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/Footer.tsx
+fastfetch
+fastfetch
+fasq
+fastfetch
+cat .config/hypr/hyprland.conf
+fastfetch
+nvim .config/waybar/config.jsonc
+fastfetch
+sudo pacman -Syu
+nvim .config/niri/config.kdl
+reboot
+paru -Rns refine
+sudo pacman -Ss refine
+sudo pacman -Ss gnome-tweak
+sudo pacman -Ss gnome-tweaks
+sudo pacman -S gnome-tweaks
+paru -Rns bibata-cursor-theme-bin
+paru -RS bibata-cursor-theme-bin
+paru -S bibata-cursor-theme-bin
+fastfetch
+fastfetch
+sudo pacman -Syu
+fastfetch
+sudo pacman -Syu
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+nvim .config/niri/config.kdl
+shutdown now
+nmcli device wlan0
+nmcli device 
+nmcli device wlan0 connect INFINITUMAMHH_2.4
+nmcli device wlan0 connect INFINITUMAMHH_2.4 
+nmcli
+nmcli wlan0
+nmcli device wlan0
+reboot
+fastfetch
+fastfetch
+nvim .config/niri/config.kdl
+fastfetch
+nvim .config/niri/config.kdl
+nvim .config/niri/config.kdl
+fastfetch
+nvim .config/niri/c
+nvim .config/niri/config.kdl
+paru -Ss wl-gamm
+sudo pacman -S sway
+sudo pacman -Ss sway
+sudo pacman -S sway i3status
+reboot
+nvim .config/niri/config.kdl
+sudo pacman -Syu
+sudo pacman -S sway
+fastfetch
+sudo pacman -S sway wf-recorder
+sudo pacman -S wf-recorder
+sudo pacman -S wf-recorder
+sudo pacman -Ss i3
+fastfetch
+cd .config
+ls
+fas
+fa
+cd
+nvim .config/niri/config.kdl
+sudo pacman -Ss iw
+sudo pacman -Ss i3
+sudo pacman -S i3status sway
+sudo pacman -S sway i3status
+reboot
+cd .config
+ls
+mkdir sway
+nvim sway/config
+nvim .config/sway/config
+reboot
+fastfetch
+gtklock
+nvim .config/sway/config
+nvim .config/sway/config
+fastfetch
+nvim .config/sway/config
+fastfetch
+nvim .config/niri/config.kdl
+nvim .config/zsh/.zshrc
+nvim .config/sway/config
+nvim .config/sway/config
+nvim .config/sway/config
+nvim .config/sway/config
+fastfetch
+fastfetch
+nvim .config/sway/config
+nvim .config/sway/config
+swww img .config/background
+swww-daemon
+ls .config/niri/config.kdl
+cat .config/niri/config.kdl
+cat .config/hypr/hyprland.conf
+fastfetch
+sudo pacman -Rns waybar niri
+fastfetch
+sudo pacman -Rns hyprland
+gtklock
+fastfetch
+fastfetch
+nvim
+fastfetch
+fastfetch
+fastfetch
+nvim .config/ghostty/config
+fastfetch
+gtklock
+nvim
+nvim .config/sway/config
+sudo pacman -Syu
+sudo pacman -Rns swww
+fastfetch
+sudo pacman -Rns hyprland swaybar swww
+fastfetch
+fastfetch
+nvim .config/sway/config
+nvim .config/fastfetch/config.jsonc
+nvim
+nvim .config/sway/config
+nvim .config/sway/config
+nvim
+nvim
+nvim
+nvim
+nvim
+nvim
+nvim
+nvim
+fastfetch
+fastfetch
+nvim .config/nvim/lua/configs/l
+nvim .config/nvim/init.lua
+nvim .config/nvim/lua/plugins/init.lua
+sudo pacman -Syu
+nvim .config/sway/config
+nvim
+nvim .config/ghostty/config
+nvim .config/sway/config
+nvim .config/sway/config
+nvim .config/nvim/lua/chadrc.lua
+nvim .config/nvim/lua/plugins/init.lua
+sudo pacman -Syu
+reboot
+nvim .config/zsh/.zshrc
+swww-daemon
+swww img drool-d.svg
+swww img drool-d.svg
+swww img drool-l.svg
+swww img morphogenesis-d.svg
+swww img vnc-d.png
+swww img .config/background
+3
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-1.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-3.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-3/style-10.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-3/style-1.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-3/style-2.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-3/style-3.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-2/style-1.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-2/style-2.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-10.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-10.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-9.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-8.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-7.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-7.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-6.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-5.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-4.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-3
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-3.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-2.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-4/style-1
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-15.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-14.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-13.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-12.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-11
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-11.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-10.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-10.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-10.rasi
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-10.rasi
+nvim .config/sway/config
+nvim .config/sway/config
+nvim .config/sway/config
+reboot
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+nvim .config/sway/config
+fastfetch
+nvim .config/sway/x
+nvim .config/sway/config
+nvim .config/sway/config
+nvim .config/sway/config
+fas
+fas
+fastfetch
+fastfetch
+fastfetch --config all
+fastfetch
+fastfetch --config all
+lsblk
+ls .config | grep "hypr"
+ls .config | grep "niri"
+cat .config/hypr/hyprland.conf
+cat .config/niri/config.kdl
+fastfetch
+fastfetch
+nvim .config/sway/config
+fastfetch
+sudo pacman -S sway hyprland
+fastfetch
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/Footer.tsx
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/AboutMember.tsx
+cd
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+ll
+cd src
+ll
+tree
+fastfetch
+nvim .config/sway/config
+fastfetch
+sudo pacman -Rns swww
+sudo pacman -S swaybg
+sudo pacman -S swaybg
+nvim .config/hypr/hyprland.conf
+sudo pacman -S grim
+sudo pacman -S wf-recorder grim
+reboot
+nvim .config/sway/config
+nvim .config/sway/config
+nvim .config/sway/config
+nvim .config/sway/config
+brightnessctl s +5%
+brightnessctl s 5-%
+brightnessctl s 5-%
+brightnessctl s 5-%
+brightnessctl s 5-%
+brightnessctl s 5-%
+brightnessctl s 5-%
+brightnessctl s 5-%
+brightnessctl s +5%
+nvim .config/sway/config
+nvim .config/sway/config
+date
+nvim .config/sway/config
+nvim .config/sway/config
+cd .config/rofi
+ls
+cd colors
+ls
+cp adapta.rasi adwaita.rasi
+ls
+nvim adwaita.rasi
+nvim .config/sway/config
+nvim .config/rofi/launchers/type-1/shared/colors.rasi
+nvim .config/sway/config
+nvim .config/rofi/colors/adwaita.rasi
+nvim .config/ghostty/config
+nvim .config/sway/config
+fas
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/About
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/AboutMember.tsx
+swaybar
+swaybg --img Downloads/pomni.jpg -m fill
+swaybg -i Downloads/pomni.jpg -m fill
+swaybg -m fill -i Downloads/wp15465063.png
+fastfetch
+nvim .config/fastfetch/config.jsonc
+fastfetch --config all
+fastfetch --config all
+swww -i Downloads/wp15465063.png -m fill
+swayb -i Downloads/wp15465063.png -m fill
+swaybg -i Downloads/wp15465063.png -m fill
+shutdown now
+sudo pacman -Ss nix
+fastfetch
+fastfetch
+sudo pacman -S nix
+sudo pacman -Ss aws-c
+fastfetch
+fastfetch
+nvim .config/fastfetch/config.jsonc
+fastfetch
+fastfetch
+nvim .config/fastfetch/config.jsonc
+sudo pacman -Syu
+nvim .config/fastfetch/config.jsonc
+fastfetch
+fastfetch
+nvim .config/fastfetch/config.jsonc
+ls
+fastfetch
+nvim .config/fastfetch/config.jsonc
+nvim .config/fastfetch/config.jsonc
+ls
+fastfetch
+sudo pacman -Rns sway
+fa
+fastfetch
+nvim .config/fastfetch/config.jsonc
+fastfetch
+fastfetch
+sudo pacman -S nix
+sudo pacman -Ss nix
+sudo pacman -Syu
+reboot
+fastfetch
+cd Downloads
+ls
+git clone https://github.com/chebro/dotfiles
+reboot
+nvim .config/sway/config
+fastfetch
+clear
+fastfetch
+colp
+girm
+grim
+nvim .config/i3blocks/config
+cd
+cd .config/fastfetch
+ls
+fastfetch
+cd
+nvim .config/sway/config
+fastfetch
+clear
+fastfetch
+cd
+cd
+nvim
+cd .config/i3blocks
+ls
+cd scripts
+ls
+./archupdates.sh
+cat archupdates.sh
+sudo pacman -Ss checkupdates
+sudo pacman -Ss checkupdate
+paru -Ss checkupdates
+fsa
+fa
+fastfetch
+cd
+fastfetch
+fastfetch
+cd
+cd
+nvim .config/zsh/.zshrc
+podman container list
+iwgetid -m | awk '{ printf "%s", $1 }')" /proc/net/wireless | awk '{ printf "%i\n", int($3 * 100 / 70) }
+SSID=$(iwgetid -r)\
+SSIG=$(grep "$(iwgetid -m | awk '{ printf "%s", $1 }')" /proc/net/wireless | awk '{ printf "%i\n", int($3 * 100 / 70) }')\
+
+SSID=$(iwgetid -r)\
+SSIG=$(grep "$(iwgetid -m | awk '{ printf "%s", $1 }')" /proc/net/wireless | awk '{ printf "%i\n", int($3 * 100 / 70) }')\
+
+SSID=$(iwgetid -r)\
+SSIG=$(grep "$(iwgetid -m | awk '{ printf "%s", $1 }')" /proc/net/wireless | awk '{ printf "%i\n", int($3 * 100 / 70) }')\
+
+SSID=$(iwgetid -r)\
+SSIG=$(grep "$(iwgetid -m | awk '{ printf "%s", $1 }')" /proc/net/wireless | awk '{ printf "%i\n", int($3 * 100 / 70) }')\
+
+iwgetid -r
+SSID=$(iwgetid -r)
+SSIG=$(grep "$(iwgetid -m | awk '{ printf "%s", $1 }')" /proc/net/wireless | awk '{ printf "%i\n", int($3 * 100 / 70) }')\
+
+fastfetch
+wf-recorder
+ls
+ip a
+ip a | grep "inet"
+ip a | grep "inet "
+ip a | grep -A | "inet " 
+ip a | grep -A 1 "inet " 
+ip a | grep "inet " 
+fastfetch
+cd
+fa
+cd
+nvim .config/zsh/.z
+nvim .config/zsh/.zshrc
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+cd
+cd .config/i3blocks
+l
+ls
+cd scripts
+ls
+nvim i3blocks.sh
+nvim cpu.sh
+ls
+chmod 700 cpu.sh
+./cpu.sh
+nvim cpu.sh
+./cpu.sh
+nvim cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+nvim cpu.sh
+./cpu.sh
+./cpu.sh
+nvim cpu.sh
+./cpu.sh
+nvim cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+./cpu.sh
+nvim cpu.sh
+ls
+nvim i3blocks.sh
+rm i3blocks.sh
+nvim wifi.sh
+nvim wifi.sh
+SSIG=$(grep "$(iwgetid -m | awk '{ printf "%s", $1 }')" /proc/net/wireless | awk '{ printf "%i\n", int($3 * 100 / 70) }')\
+
+sudo pacman -Ss iwgetid
+sudo pacman -Ss wireless
+sudo pacman -Ss wireless-tools
+sudo pacman -Ss wireless_tools
+sudo pacman -S wireless_tools
+fastfetch
+fastfetch
+ls
+nvim wifi.sh
+ls
+./battery.sh
+nvim battery.sh
+fastfetch
+fastfetch
+podman container list
+fastfetch
+fastfetch
+cd
+fa
+fastfetch
+sudo pacman -S waybar
+fastfetch
+nu
+nvim Downloads/dotfiles/.config/i3/config
+systemctl hibernate
+clear
+cd .config/i3blocks
+ls
+ls scripts
+ll scripts
+nvim oc
+nvim .co
+ll
+nvim config
+i3blocks
+nvim config
+nvim config
+cd
+fastfetch
+fastfetch
+nvim .config/sway/config
+fastfetch
+fastfetch
+nvim .config/sway/config
+nvim .config/sway/config
+nvim .config/sway/config
+swaybg -i Syncthing/media/pictures/wallpaper/square/tiles
+swaybg -i Syncthing/media/pictures/wallpaper/square/tiles/x_tile.png -m 
+swaybg -i Syncthing/media/pictures/wallpaper/square/tiles/x_tile.png -m tile
+swaybg -m tille -i Syncthing/media/pictures/wallpaper/square/tiles/x_tile.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/x_tile.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/transistors_tile.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/shapes_tile.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/openbsd_tile.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/gnu-linux_tile
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/gnu-linux_tile1.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/gnu-linux_tile2.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/cubes_tile.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/shimeji_simulation/shimeji_tile01.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/shimeji_simulation/shimeji_tile
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/shimeji_simulation/shimeji_tile.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile093.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile092.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile087.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile090.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile080.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile080.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile010.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile048.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile061.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile070.png
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile072.png
+sudo pacman -S waybar
+fastfetch
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile072.png
+swaymsg --reload
+swaymsg reload
+swaymsg reload
+swaymsg reload
+swaymsg reload
+swaymsg reload
+swaymsg reload
+swaymsg reload
+swaymsg reload
+swaymsg reload
+swaymsg reload
+cd .config/i3blocks
+swaymsg reload
+nvim .config/ghostty/config
+cd
+nvim Downloads/dotfiles/.config/i3blocks/config
+nvim .config/ghostty/config
+nvim .config/ghostty/config
+cd
+nvim .config/waybar/config
+nvim .config/waybar/config 
+sudo pacman -Syu
+reboot
+ls
+cd D
+ls
+cd
+cd Downloads
+ls
+curl -fsSL https://install.danklinux.com | sh
+ls
+paru -Ss dank
+sudo pacman -Ss mutagen
+paru -Ss quickshell
+reboot
+fastfetch
+fastfetch
+sudo pacman -Rns sway waybar
+sudo pacman -Rns rofi
+sudo pacman -Rns sway waybar
+sudo pacman -Rns sway rofu
+sudo pacman -Rns sway rofi
+sudo pacman -Rns sway rofi-wayland
+sudo pacman -Rns rofi-wayland
+sudo pacman -Rns rofi
+sudo pacman -S niri waybar
+sudo pacman -S niri
+paru -Ss noctalia
+sudo pacman -S niri
+sudo pacman -S nix
+sudo pacman -S niri
+fastfetch
+fastfetch
+fastfetch
+fas
+fastfetch
+fastfetch
+clear
+fastfetch
+nvim .config/waybar/config.jsonc
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+nvim .config/waybar/config.jsonc
+fastfetch
+fastfetch
+nvim .config/waybar/config.jsonc
+fastfetch
+fastfetch
+fastfetch
+niv
+nvim
+sudo pacman -Syu \\
+  curl git jq gjs typescript pnpm \\
+  ibus pipewire networkmanager \\
+  dart-sass gtk4 gtk4-layer-shell \\
+  libadalite libastal-meta python-pywal16\
+
+paru -Ss libadalite
+paru -S aylurs-gtk-shell-git
+paru -S aylurs-gtk-shell-git
+fastfetch
+fastfetch
+ls
+cd Desktop
+ls
+paru -Ss libadalite
+fastfetch
+cd Syncthing
+ls
+cd projects
+ls
+cd
+cd
+cd Syncthing
+LS
+ls
+cd projects
+ls
+cd ..
+cd projects/freelancer
+ls
+ls
+cd ..
+ls
+cd lidsol
+ls
+cd sitio-web-lidsol
+ls
+cd ..
+ls
+ls
+cd ..
+ls
+cd orgtd
+ls
+nvim papelito.org
+fastfetch
+cd Downloads
+ls
+touch flake.nix
+paru -Ss aylurs-gtk-shell-git
+paru -S aylurs-gtk-shell-git
+ls
+rm flake.nix
+cd
+cd Desktop
+ls
+git clone git@github.com:ramen-root/dotfiles
+emacs
+cd 
+fastfetch
+notify-send "Notificacion de prueba"
+cd
+cd c.o
+cd .config/
+ls
+cd delta-shell
+ls
+nvim config.json
+podman container list
+fastfetch
+nvim .config/ghostty/config
+fastfetch
+cd
+fastfetch
+sudo pacman -Ss wf-recorder
+sudo pacman -Rns wf-recorder
+sudo pacman -S gpu-screen-recorder
+paru -S gpu-screen-recorder
+delta-shell
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+sudo pacman -S nix
+ls
+cd Desktop
+sl
+ls
+cd para-organizar
+cd
+cd Desktop
+ls
+cd para-organizar
+ls
+cd
+ls
+cd Downloads
+ls
+cd ..
+ls
+cd Desktop
+git clone git@github.com:ramen-root/dotfiles
+git clone git@github.com:ramen-root/dotfiles
+git clone git@github.com:ramen-root/dotfiles
+ssh-add -l
+ssh-add ~/.ssh/github-key
+ssh-add ~/.ssh/github-key
+ssh-add ~/.ssh/github-key.pub
+ssh -T git@github.com
+ssh -T git@github.com
+cd
+ssh -T git@github.com
+ls .sh
+ls .ssh
+ssh-add ~/.ssh/github-key
+ssh-add ~/.ssh/github-key
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/github-key
+git clone git@github.com:ramen-root/dotfiles
+cd Desktop
+git clone git@github.com:ramen-root/dotfiles
+ls
+cd dotfiles
+ls
+ls
+ls
+cat README.md
+nvim flake.nix
+nix develop
+sudo systemctl enable nix-daemon
+ls
+nix develop
+nix develop
+nix 
+nix --help
+ls
+cat flake.nix
+nix develop
+ags
+ags run
+ls
+rm flake.nix
+ls
+ls
+paru -S delta-shell-git libastal-niri-git aylurs-gtk-shell-git libastal-meta brightnessctl ddcutil dart-sass fd bluez tuned-ppd cliphist gpu-screen-recorder wl-clipboard libgtop
+sudo pacman -Rns nix
+fastfetch
+sudo pacman -Rns nix
+sudo pacman -Rns swaybg
+paru -S delta-shell-git libastal-niri-git aylurs-gtk-shell-git libastal-meta brightnessctl ddcutil dart-sass fd bluez tuned-ppd cliphist gpu-screen-recorder wl-clipboard libgtop swww
+cd
+nvim .config/niri/config.kdl
+ags run
+cd .config/delta-shell
+ls
+cat config.json
+nvim config.json
+ls
+nvim config.json
+nvim config.json
+swaybg -m tile -i Syncthing/media/pictures/wallpaper/square/tiles/jashin-chan/evolved_tile072.png
+swww -i Downloads/wp15465063.png -m fill
+swww -i Downloads/wp15465063.png
+swww img .config/background
+swww-daemon &
+niri
+niri
+niri --help
+firefox
+emacs
+delta-shell
+delta-shell applauncher
+delta-shell applauncher
+delta-shell toggle applauncher
+delta-shell toggle applauncher
+delta-shell toggle applauncher
+delta-shell toggle applauncher
+cd
+nvim .config/niri/config.kdl
+fastfetch
+clear
+fastfetch
+fastfetch
+ls
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+fastfetch
+ls
+ls
+git add .
+git commit -m "firts rice"\
+
+git config --global user.email "ramenroot"
+git commit -m "firts rice"
+git config --global user.email "ramenroot@protonmail.com"
+git config --global user.name "ramenroot"
+git commit -m "firts rice"
+git branch
+git push origin main
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/github-key
+git push origin main
+git add .
+git commit -m "add niri... remove hyprland"
+git push origin main
+reboot
+cd
+nvim .config/niri/config.kdl
+fastfetch
+fastfetch
+cd
+fastfetch
+swww --help
+fastfetch
+nvim .config/niri/config.kdl
+fastfetch
+clear
+fastfetch
+clear
+cd .config/delta-shell
+s
+ls
+nvim theme.json
+nvim config.json
+nvim theme.json
+niri --version
+ccccccccccccd
+cd
+cd
+niri --version
+nvim .config/niri/config.kdl
+nvim .config/niri/config.kdl
+paru -Ss delta-shell
+cd
+nvim .config/niri/config.kdl
+delta-shell
+delta-shell toggle applauncher
+delta-shell toggle clipboard
+delta-shell toggle clipboard
+delta-shell toggle quicksettings
+delta-shell toggle quicksettings
+delta-shell toggle nitificationlist
+delta-shell toggle notificationlist
+delta-shell toggle notificationslist
+ip a
+cd
+cd
+cd
+nvim .config/niri/config.kdl
+ls .config
+ls .config/delta-shell
+ls /usr/share/ags/
+ls /usr/share/ags/js
+ls /usr/share/ags/js/lib
+tree /usr/share/ags/
+fastfetch
+fastfetch
+clear
+fastfetch
+cd
+cd
+clear
+nvim .config/niri/config.kdl
+cd
+podman container list
+cd
+cd
+fas
+fastfetch
+nvim .config/niri/config.kdl
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/Event
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/Event.
+nvim Syncthing/projects/lidsol/sitio-web-lidsol/src/components/EventDetail.tsx
+NVI
+nvim
+nvim
+fastfetch
+fastfetch
+colp
+fastfetch
+clear
+cd
+cd .config/delta-shell
+ls
+cd
+ls
+ls /usr/share/ags
+ls /usr/share/delta-shell
+ls /usr/share/delta-shell/src/
+ls /usr/share/delta-shell/src/styles/
+ls /usr/share/delta-shell/assets
+ls /usr/share/delta-shell/assets/icons
+ls /usr/share/delta-shell/assets/icons/hicolor
+ls /usr/share/delta-shell/assets/icons/hicolor/scalable
+ls /usr/share/delta-shell/assets/icons/hicolor/scalable/status
+ls
+fastfetch
+podman container list
+p10k
+p10k configure
+clear
+cd
+p10k configure
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+cd
+nvim .config/zsh/.zsh
+nvim .config/zsh/.zshrc
+nvim .config/zsh/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+source ~/.zshrc
+sudo pacman -Ss bluez
+sudo systemctl enable bluez
+sudo systemctl enable bluetooth.service
+clear
+delta-shell run
+kill delta
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+delta-shell run
+nvim .config/delta-shell/config.json
+cd .config/zsh
+ls
+nvim aliases.zsh
+ls
+cd
+nvim .config/niri/config.kdl
+cd Syncthing/projects/lidsol/sitio-web-lidsol/src
+ls
+nvim main.tsx
+npm run build
+podman rm -f lidsol-react 2>/dev/null || true\
+podman run -d \\
+    --name lidsol-react \\
+    -p 8080:80 \\
+    -v "$(pwd)/build:/usr/share/nginx/html:ro" \\
+    nginx:alpine
+cd Syncthing/projects/lidsol/sitio-web-lidsol
+ls
+while inotifywait -r -e modify,create,delete --exclude 'node_modules|build' src/; do\
+    npm run build\
+done
+cd
+cd .config/zsh
+ls
+ls
+cd
+fastfetch
+ls .config/fastfetch
+ls
+cd
+ls
+clear
+ls
+ls
+ls
+ls
+cd ..
+tree -aD
+clear
+tree a
+tree -a zsh
+tree -ad zsh
+tree -aD zsh
+tree -al zsh
+tree -a zsh
+ls
+ls
+cd
+ls
+zprof
+zprof
+cd .config
+tree -a zsh
+clear
+ls -alR zsh
+ls -alR zsh << ~/Desktop/zshtree
+ls -alR zsh >> ~/Desktop/zshtree
+cd
+ls
+cd ...
+cd ..
+cd 
+cd .config
+ls
+ls zsh
+ls -alR zsh
+ls -alR zsh >> cat ~/Desktop
+ls -alR zsh >> cat ~/Desktop/tree
+cat ~/Desktop/tree
+touch ~/Desktop/tree
+ls ~/
+cd
+cd .co
+cd .config/zsh
+ls
+nvim .zsh
+nvim .zshrc
+time 
+tcd
+cd
+time source .zshrc
+ls
+time | source .zshrc
+time ls
+time ls
+time -v ls
+time
+time source .zshrc
+time | source .zshrc
+start=$(date +%s.%N)   # segundos con fracciones\
+source .zshrc\
+end=$(date +%s.%N)\
+elapsed=$(echo "$end - $start" | bc)\
+echo "DuraciÃ³n: $elapsed segundos"
+start=$(date +%s.%N)\
+source .zshrc\
+end=$(date +%s.%N)\
+elapsed=$(echo "$end - $start" | bc)\
+echo "DuraciÃ³n: $elapsed segundos"
+time 
+time source .zshrc
+time | source .zshrc
+ls
+ls -a
+nvim .zshrc
+cd .config/zsh
+tree -a
+clear
+ls
+clear
+ls -a
+nvim .zshrc
+ls
+cd
+ls
+ls > hola.txt
+ls
+cat hola.txt
+rm hola.txt
+cd .config/zsh
+cd
+ls -aRl .config/zsh > treezsh
+ls
+cat treezsh
+fastfetch
+p10k configure
+nvim .zshrc
+nvim .config/zsh/.zshrc
+nvim .config/zsh/.zshrc
+reboot
+cd
+clear
+p10k configure
+cd .config/zsz
+ls
+clear
+ls
+ls
+ls
+rm treezsh
+clear
+nvim .config/zsh/.zshrc
+exit
+cd
+cd
+fastfetch
+clear
+nvim .config/zsh/.zshrc
+podman container list
+fastfetch
+nvim .config/zsh/.zsh_history
+nvim .config/zsh/zsh_history
+exit
+cd
+ls /usr/share/icons/MoreWaita/*
+ls -R /usr/share/icons/MoreWaita/
+ls -R /usr/share/icons/MoreWaita/ | grep "user"
+find . .n "system-users.svg" /usr/share/icons/MoreWaita/
+find /usr/share/icons/MoreWaita .n "system-users.svg"
+find /usr/share/icons/MoreWaita -n "system-users.svg" 
+find /usr/share/icons/MoreWaita -f "system-users.svg" 
+find /usr/share/icons/MoreWaita -f -n "system-users.svg" 
+find /usr/share/icons/MoreWaita -t f -n "system-users.svg" 
+find /usr/share/icons/MoreWaita -type file -n "system-users.svg" 
+find /usr/share/icons/MoreWaita -type file -name "system-users.svg" 
+find /usr/share/icons/MoreWaita --name "system-users.svg" 
+find /usr/share/icons/MoreWaita -name "system-users.svg" 
+loupe /usr/share/icons/MoreWaita/scalable/legacy/system-users.svg
+find /usr/share/icons/MoreWaita --name "user" 
+ls /usr/share/icons/MoreWaita/* | grep "user"
+ls -R /usr/share/icons/MoreWaita/* | grep "user"
+l
+ls
+cd styles
+ls
+cd ..
+ls
+ls -R
+ls -R | grep "tailwind"
+ls -R | grep "tailwind"
+ls
+cd .
+ls
+cd ..
+ls
+ls -Ra | grep "tailwind"
+ls node_modules/tailwind-merge
+ls
+cd node_modules/tailwind-merge
+ls
+ls
+pwd
+ls
+ls src
+ls src/lib
+cd ..
+cd ..
+cd ..
+ls
+cd sitio-web-lidsol
+ls
+nvim src/styles/globals.css
+nvim src/index.css
+ls
+cat main.tsx
+cat App.tsx
+cd
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/animeRevaldy-30-1.png
+fastfetch
+fastfetch
+nvim .config/zsh/.zshrc
+fastfetch
+fastfetch
+fastfetch
+clear
+clear
+ls
+cd
+nvim .config/zsh/.zshrc
+colp
+nvim .config/zsh/.zshrc
+nvim .config/zsh/.zshrc
+cd
+nvim .config/zsh/.zshrc
+cd
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/animeRevaldy-30.jpg
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/1757702387539853.jpg
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/244879.jpg
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/vocaloid/1746244960771479.jpg
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/vocaloid/1747684465185097.png
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/suzumiya-haruhi-no-YÅ«utsu/yuki-nagato-work\!.jpg
+swww img Syncthing/media/pictures/wallpaper/horizontal/so-wm-de/4chan-style/linux-powered2.png
+swww img Syncthing/media/pictures/wallpaper/horizontal/so-wm-de/4chan-style/linux-powered.png
+swww img Syncthing/media/pictures/wallpaper/horizontal/so-wm-de/4chan-style/linux-powered3.png
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/waifu-cut-hair.jpg
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/wallcurr.jpg
+clear
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/wallcurr.jpg
+swww img Syncthing/media/pictures/wallpaper/horizontal/anime/lofi/1765103086836431.png
+swww img /home/owl/Syncthing/media/pictures/wallpaper/horizontal/anime/lofi/1765512829981987.png\
+
+p10k configure
+date
+cd
+hwclock
+hwclock -d
+cel
+clear
+fastfetch
+clear
+fastfetch
+nvim .config/zsh/.zcompdump
+nvim .config/zsh/.zshrc
+cd .co
+cd .config
+ls
+clear
+fastfetch
+clear
+fastfetch
+reboot
